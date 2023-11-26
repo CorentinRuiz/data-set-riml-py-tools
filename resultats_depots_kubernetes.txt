@@ -1,0 +1,1596 @@
+Nom du dépôt : apache/dubbo
+Description : The java implementation of Apache Dubbo. An RPC and microservice framework.
+URL : https://github.com/apache/dubbo
+
+Nom du dépôt : apolloconfig/apollo
+Description : Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+URL : https://github.com/apolloconfig/apollo
+
+Nom du dépôt : zeromicro/go-zero
+Description : A cloud-native Go microservices framework with cli tool for productivity.
+URL : https://github.com/zeromicro/go-zero
+
+Nom du dépôt : go-kit/kit
+Description : A standard library for microservices.
+URL : https://github.com/go-kit/kit
+
+Nom du dépôt : go-kratos/kratos
+Description : Your ultimate Go microservices framework for the cloud-native era.
+URL : https://github.com/go-kratos/kratos
+
+Nom du dépôt : alibaba/Sentinel
+Description : A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+URL : https://github.com/alibaba/Sentinel
+
+Nom du dépôt : go-micro/go-micro
+Description : A Go microservices framework
+URL : https://github.com/go-micro/go-micro
+
+Nom du dépôt : GoogleCloudPlatform/microservices-demo
+Description : Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+URL : https://github.com/GoogleCloudPlatform/microservices-demo
+
+Nom du dépôt : hashicorp/nomad
+Description : Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+URL : https://github.com/hashicorp/nomad
+
+Nom du dépôt : sqshq/piggymetrics
+Description : Microservice Architecture with Spring Boot, Spring Cloud and Docker
+URL : https://github.com/sqshq/piggymetrics
+
+Nom du dépôt : mfornos/awesome-microservices
+Description : A curated list of Microservice Architecture related principles and technologies.
+URL : https://github.com/mfornos/awesome-microservices
+
+Nom du dépôt : falconry/falcon
+Description : The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+URL : https://github.com/falconry/falcon
+
+Nom du dépôt : smallnest/rpcx
+Description : Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
+URL : https://github.com/smallnest/rpcx
+
+Nom du dépôt : WasmEdge/WasmEdge
+Description : WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+URL : https://github.com/WasmEdge/WasmEdge
+
+Nom du dépôt : tilt-dev/tilt
+Description : Define your dev environment as code. For microservice apps on Kubernetes.
+URL : https://github.com/tilt-dev/tilt
+
+Nom du dépôt : moleculerjs/moleculer
+Description : :rocket: Progressive microservices framework for Node.js
+URL : https://github.com/moleculerjs/moleculer
+
+Nom du dépôt : hyperf/hyperf
+Description : 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
+URL : https://github.com/hyperf/hyperf
+
+Nom du dépôt : swoft-cloud/swoft
+Description : 🚀 PHP Microservice Full Coroutine Framework
+URL : https://github.com/swoft-cloud/swoft
+
+Nom du dépôt : goadesign/goa
+Description : Design-based APIs and microservices in Go
+URL : https://github.com/goadesign/goa
+
+Nom du dépôt : dotnet/tye
+Description : Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+URL : https://github.com/dotnet/tye
+
+Nom du dépôt : h2non/imaginary
+Description : Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
+URL : https://github.com/h2non/imaginary
+
+Nom du dépôt : line/armeria
+Description : Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+URL : https://github.com/line/armeria
+
+Nom du dépôt : neuland/micro-frontends
+Description : extending the microservice paradigms to web development
+URL : https://github.com/neuland/micro-frontends
+
+Nom du dépôt : douyu/jupiter
+Description : Jupiter: Governance-oriented Microservice Framework.
+URL : https://github.com/douyu/jupiter
+
+Nom du dépôt : stefanprodan/podinfo
+Description : Go microservice template for Kubernetes
+URL : https://github.com/stefanprodan/podinfo
+
+Nom du dépôt : emissary-ingress/emissary
+Description : open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+URL : https://github.com/emissary-ingress/emissary
+
+Nom du dépôt : senecajs/seneca
+Description : A microservices toolkit for Node.js.
+URL : https://github.com/senecajs/seneca
+
+Nom du dépôt : thangchung/go-coffeeshop
+Description : ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+URL : https://github.com/thangchung/go-coffeeshop
+
+Nom du dépôt : nytimes/gizmo
+Description : A Microservice Toolkit from The New York Times
+URL : https://github.com/nytimes/gizmo
+
+Nom du dépôt : Mikaelemmmm/go-zero-looklook
+Description : 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+URL : https://github.com/Mikaelemmmm/go-zero-looklook
+
+Nom du dépôt : google/rejoiner
+Description : Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
+URL : https://github.com/google/rejoiner
+
+Nom du dépôt : networknt/light-4j
+Description : A fast, lightweight and more productive microservices framework
+URL : https://github.com/networknt/light-4j
+
+Nom du dépôt : TarsCloud/TarsGo
+Description : A  high performance microservice  framework  in golang. A linux foundation project.
+URL : https://github.com/TarsCloud/TarsGo
+
+Nom du dépôt : microservices-patterns/ftgo-application
+Description : Example code for the book Microservice patterns
+URL : https://github.com/microservices-patterns/ftgo-application
+
+Nom du dépôt : iron-io/functions
+Description : IronFunctions - the serverless microservices platform by
+URL : https://github.com/iron-io/functions
+
+Nom du dépôt : kunalkapadia/express-mongoose-es6-rest-api
+Description : :collision: A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+URL : https://github.com/kunalkapadia/express-mongoose-es6-rest-api
+
+Nom du dépôt : ExpressGateway/express-gateway
+Description : A microservices API Gateway built on top of Express.js
+URL : https://github.com/ExpressGateway/express-gateway
+
+Nom du dépôt : camunda/zeebe
+Description : Distributed Workflow Engine for Microservices Orchestration
+URL : https://github.com/camunda/zeebe
+
+Nom du dépôt : lagom/lagom
+Description : Reactive Microservices for the JVM
+URL : https://github.com/lagom/lagom
+
+Nom du dépôt : openservicemesh/osm
+Description : Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+URL : https://github.com/openservicemesh/osm
+
+Nom du dépôt : alibaba/sentinel-golang
+Description : Sentinel Go enables reliability and resiliency for Go microservices
+URL : https://github.com/alibaba/sentinel-golang
+
+Nom du dépôt : microsoft/dotnet-podcasts
+Description : .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
+URL : https://github.com/microsoft/dotnet-podcasts
+
+Nom du dépôt : juicycleff/ultimate-backend
+Description : Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
+URL : https://github.com/juicycleff/ultimate-backend
+
+Nom du dépôt : vietnam-devs/coolstore-microservices
+Description : A full-stack .NET microservices build on Dapr and Tye
+URL : https://github.com/vietnam-devs/coolstore-microservices
+
+Nom du dépôt : TIBCOSoftware/flogo
+Description : Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+URL : https://github.com/TIBCOSoftware/flogo
+
+Nom du dépôt : lipp/login-with
+Description : Stateless login-with microservice for OAuth
+URL : https://github.com/lipp/login-with
+
+Nom du dépôt : dashersw/cote
+Description : A Node.js library for building zero-configuration microservices.
+URL : https://github.com/dashersw/cote
+
+Nom du dépôt : ory/ladon
+Description : A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
+URL : https://github.com/ory/ladon
+
+Nom du dépôt : openflagr/flagr
+Description : Flagr is a feature flagging, A/B testing and dynamic configuration microservice
+URL : https://github.com/openflagr/flagr
+
+Nom du dépôt : polarismesh/polaris
+Description : Service Discovery and Governance Platform for Microservice and Distributed Architecture
+URL : https://github.com/polarismesh/polaris
+
+Nom du dépôt : 1backend/1backend
+Description : Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
+URL : https://github.com/1backend/1backend
+
+Nom du dépôt : Kong/mockbin
+Description : Mock, Test & Track HTTP Requests and Response for Microservices
+URL : https://github.com/Kong/mockbin
+
+Nom du dépôt : Particular/NServiceBus
+Description : Build, version, and monitor better microservices with the most powerful service platform for .NET
+URL : https://github.com/Particular/NServiceBus
+
+Nom du dépôt : spring2go/staffjoy
+Description : 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+URL : https://github.com/spring2go/staffjoy
+
+Nom du dépôt : phongnguyend/Practical.CleanArchitecture
+Description : Full-stack .Net 7 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 16, React 18, Vue 3, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud Services (Azure, AWS, Google), .
+URL : https://github.com/phongnguyend/Practical.CleanArchitecture
+
+Nom du dépôt : solo-io/squash
+Description : The debugger for microservices
+URL : https://github.com/solo-io/squash
+
+Nom du dépôt : zalando/tailor
+Description : A streaming layout service for front-end microservices
+URL : https://github.com/zalando/tailor
+
+Nom du dépôt : aws-samples/ecs-refarch-cloudformation
+Description :  A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)
+URL : https://github.com/aws-samples/ecs-refarch-cloudformation
+
+Nom du dépôt : Staffjoy/v2
+Description : Staffjoy V2 - all microservices in a monorepo
+URL : https://github.com/Staffjoy/v2
+
+Nom du dépôt : lelylan/lelylan
+Description : Open Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+URL : https://github.com/lelylan/lelylan
+
+Nom du dépôt : elgris/microservice-app-example
+Description : Example of polyglot microservice app
+URL : https://github.com/elgris/microservice-app-example
+
+Nom du dépôt : go-eagle/eagle
+Description : 🦅 A microservice framework for Go， offical docs: https://go-eagle.org/
+URL : https://github.com/go-eagle/eagle
+
+Nom du dépôt : stackvana/hook.io
+Description : Open-Source Microservice Hosting Platform
+URL : https://github.com/stackvana/hook.io
+
+Nom du dépôt : open-telemetry/opentelemetry-demo
+Description : This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+URL : https://github.com/open-telemetry/opentelemetry-demo
+
+Nom du dépôt : tumblr/colossus
+Description : I/O and Microservice library for Scala
+URL : https://github.com/tumblr/colossus
+
+Nom du dépôt : suyuan32/simple-admin-core
+Description : Simple Admin是一个基于Go Zero开发面向中大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time. 
+URL : https://github.com/suyuan32/simple-admin-core
+
+Nom du dépôt : thangchung/clean-architecture-dotnet
+Description : 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻
+URL : https://github.com/thangchung/clean-architecture-dotnet
+
+Nom du dépôt : spring-cloud/spring-cloud-dataflow
+Description : A microservices-based Streaming and Batch data processing in Cloud Foundry and Kubernetes
+URL : https://github.com/spring-cloud/spring-cloud-dataflow
+
+Nom du dépôt : piomin/sample-spring-microservices-new
+Description : Demo for Spring Boot 3(`master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more
+URL : https://github.com/piomin/sample-spring-microservices-new
+
+Nom du dépôt : koordinator-sh/koordinator
+Description : A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
+URL : https://github.com/koordinator-sh/koordinator
+
+Nom du dépôt : aws-samples/aws-serverless-ecommerce-platform
+Description : Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration on how to build event-driven serverless microservices on AWS.
+URL : https://github.com/aws-samples/aws-serverless-ecommerce-platform
+
+Nom du dépôt : vercel/avatar
+Description : 💎   Beautiful avatars as a microservice
+URL : https://github.com/vercel/avatar
+
+Nom du dépôt : sitewhere/sitewhere
+Description : SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation.
+URL : https://github.com/sitewhere/sitewhere
+
+Nom du dépôt : vladaionescu/leveros
+Description : Serverless + Microservices = ♥
+URL : https://github.com/vladaionescu/leveros
+
+Nom du dépôt : eventuate-tram/eventuate-tram-sagas
+Description : Sagas for microservices
+URL : https://github.com/eventuate-tram/eventuate-tram-sagas
+
+Nom du dépôt : eventuate-tram/eventuate-tram-core
+Description : Transactional messaging for microservices
+URL : https://github.com/eventuate-tram/eventuate-tram-core
+
+Nom du dépôt : spring-cloud/spring-cloud-stream
+Description : Framework for building Event-Driven Microservices
+URL : https://github.com/spring-cloud/spring-cloud-stream
+
+Nom du dépôt : mailgun/gubernator
+Description : High Performance Rate Limiting MicroService and Library
+URL : https://github.com/mailgun/gubernator
+
+Nom du dépôt : aol/micro-server
+Description : Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles.
+URL : https://github.com/aol/micro-server
+
+Nom du dépôt : gotomicro/ego
+Description : A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
+URL : https://github.com/gotomicro/ego
+
+Nom du dépôt : cer/microservices-examples
+Description : Examples of microservices
+URL : https://github.com/cer/microservices-examples
+
+Nom du dépôt : snatch-dev/Convey
+Description : A simple recipe for .NET Core microservices.
+URL : https://github.com/snatch-dev/Convey
+
+Nom du dépôt : MarioCarrion/todo-api-microservice-example
+Description : Go microservice tutorial project using Domain Driven Design and Onion Architecture!
+URL : https://github.com/MarioCarrion/todo-api-microservice-example
+
+Nom du dépôt : AlexStocks/getty
+Description : a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
+URL : https://github.com/AlexStocks/getty
+
+Nom du dépôt : slanatech/swagger-stats
+Description : API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
+URL : https://github.com/slanatech/swagger-stats
+
+Nom du dépôt : pywren/pywren
+Description : Teraflops and microservices
+URL : https://github.com/pywren/pywren
+
+Nom du dépôt : authorjapps/zerocode
+Description : A community-developed, free, opensource, automated testing framework for microservices API, Kafka and Load testing. Zerocode Open Source enables you to create, change, orchestrate and maintain your automated test scenarios declaratively with absolute ease, without writing code
+URL : https://github.com/authorjapps/zerocode
+
+Nom du dépôt : hemerajs/hemera
+Description : 🔬 Writing reliable & fault-tolerant microservices in Node.js https://hemerajs.github.io/hemera/
+URL : https://github.com/hemerajs/hemera
+
+Nom du dépôt : eventuate-local/eventuate-local
+Description : The on premise, open source version of Eventuate, which is a platform for developing transactional business applications that use the microservice architecture.
+URL : https://github.com/eventuate-local/eventuate-local
+
+Nom du dépôt : yidongnan/spring-cloud-netflix-example
+Description : spring-cloud-netflix-example is an example for microservices system
+URL : https://github.com/yidongnan/spring-cloud-netflix-example
+
+Nom du dépôt : EwanValentine/shippy
+Description : Code for the tutorial series on creating Microservices with Golang
+URL : https://github.com/EwanValentine/shippy
+
+Nom du dépôt : Denrox/nestjs-microservices-example
+Description : A working example of microservice architecture implementation using nestjs framework
+URL : https://github.com/Denrox/nestjs-microservices-example
+
+Nom du dépôt : sczyh30/vertx-blueprint-microservice
+Description : Vert.x Blueprint Project - Micro-Shop microservice application
+URL : https://github.com/sczyh30/vertx-blueprint-microservice
+
+Nom du dépôt : open-source-labs/Chronos
+Description : 📊 📊 📊 Monitors the health and web traffic of servers, microservices, Kubernetes/Kafka clusters, containers, and AWS services with real-time data monitoring and receive automated notifications over Slack or email.
+URL : https://github.com/open-source-labs/Chronos
+
+Nom du dépôt : instana/robot-shop
+Description : Sample microservices application for playing with
+URL : https://github.com/instana/robot-shop
+
+Nom du dépôt : micro-analytics/micro-analytics-cli
+Description : Public analytics as a Node.js microservice. No sysadmin experience required! 📈
+URL : https://github.com/micro-analytics/micro-analytics-cli
+
+Nom du dépôt : apache/dubbo-js
+Description : The Typescript implementation of Apache Dubbo. An RPC and microservice framework for Node.js and Web development.
+URL : https://github.com/apache/dubbo-js
+
+Nom du dépôt : metaverse/truss
+Description : Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
+URL : https://github.com/metaverse/truss
+
+Nom du dépôt : devmentors/Pacco
+Description : Sample microservices solution in .NET Core 3.1 based on the cloud-agnostic approach
+URL : https://github.com/devmentors/Pacco
+
+Nom du dépôt : monzo/typhon
+Description : A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.
+URL : https://github.com/monzo/typhon
+
+Nom du dépôt : advantageous/qbit
+Description : The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices.
+URL : https://github.com/advantageous/qbit
+
+Nom du dépôt : softwaremill/bootzooka
+Description : Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
+URL : https://github.com/softwaremill/bootzooka
+
+Nom du dépôt : meysamhadeli/booking-microservices
+Description : Practical microservices, built with .Net 8, DDD, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+URL : https://github.com/meysamhadeli/booking-microservices
+
+Nom du dépôt : abixen/abixen-platform
+Description : Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
+URL : https://github.com/abixen/abixen-platform
+
+Nom du dépôt : chayxana/Restaurant-App
+Description : Restaurant App 🍔   is a sample open-source e-Commerce 🛒   application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web
+URL : https://github.com/chayxana/Restaurant-App
+
+Nom du dépôt : go-kratos/beer-shop
+Description : An online shop application, the complete microservices demo for kratos.
+URL : https://github.com/go-kratos/beer-shop
+
+Nom du dépôt : mehdihadeli/go-ecommerce-microservices
+Description : 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+URL : https://github.com/mehdihadeli/go-ecommerce-microservices
+
+Nom du dépôt : caoym/phpboot
+Description : :coffee: 🚀 tiny & fast PHP framework for building Microservices/RESTful APIs, with useful  features: IOC, Hook, ORM, RPC, Swagger, Annotation, Parameters binding, Validation, etc.
+URL : https://github.com/caoym/phpboot
+
+Nom du dépôt : benwilcock/cqrs-microservice-sampler
+Description : A Java Microservice & CQRS Demo using Spring Boot, Axon & Docker
+URL : https://github.com/benwilcock/cqrs-microservice-sampler
+
+Nom du dépôt : lithdew/flatend
+Description : Quickly build microservices using p2p networking in NodeJS/Go.
+URL : https://github.com/lithdew/flatend
+
+Nom du dépôt : lsm/micromono
+Description : Write microservices in monolithic style
+URL : https://github.com/lsm/micromono
+
+Nom du dépôt : pnxtech/hydra
+Description : A light-weight library for building distributed applications such as microservices
+URL : https://github.com/pnxtech/hydra
+
+Nom du dépôt : mehdihadeli/ecommerce-microservices
+Description : 🛍️ A practical e-commerce microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+URL : https://github.com/mehdihadeli/ecommerce-microservices
+
+Nom du dépôt : Sixt/ja-micro
+Description : Lightweight framework for building java microservices
+URL : https://github.com/Sixt/ja-micro
+
+Nom du dépôt : tjmehta/coworkers
+Description : A RabbitMQ Microservice Framework in Node.js
+URL : https://github.com/tjmehta/coworkers
+
+Nom du dépôt : abpframework/eShopOnAbp
+Description : Reference microservice solution built with the ABP Framework and .NET, runs on Kubernetes with Helm configuration, includes API Gateways, Angular and ASP.NET Core MVC applications, PostgreSQL and MongoDB databases
+URL : https://github.com/abpframework/eShopOnAbp
+
+Nom du dépôt : hamed-shirbandi/TaskoMask
+Description : Task management system based on .NET 6  with Microservices, DDD, CQRS, Event Sourcing and Testing Concepts
+URL : https://github.com/hamed-shirbandi/TaskoMask
+
+Nom du dépôt : mmorejon/microservices-docker-go-mongodb
+Description : Example of Microservices in Go with Docker, Kubernetes and MongoDB
+URL : https://github.com/mmorejon/microservices-docker-go-mongodb
+
+Nom du dépôt : pagarme/superbowleto
+Description : :football: A microservice to issue, register and manage boletos
+URL : https://github.com/pagarme/superbowleto
+
+Nom du dépôt : scalecube/scalecube-services
+Description : Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing
+URL : https://github.com/scalecube/scalecube-services
+
+Nom du dépôt : ssola/python-flask-microservice
+Description : Skeleton of a Microservice built with the Flask
+URL : https://github.com/ssola/python-flask-microservice
+
+Nom du dépôt : SaiUpadhyayula/spring-boot-microservices
+Description : This repository contains the latest source code of th spring-boot-microservices tutorial
+URL : https://github.com/SaiUpadhyayula/spring-boot-microservices
+
+Nom du dépôt : sivaprasadreddy/spring-boot-microservices-series
+Description : Code for SpringBoot MicroServices Blog Series
+URL : https://github.com/sivaprasadreddy/spring-boot-microservices-series
+
+Nom du dépôt : gofr-dev/gofr
+Description : An opinionated Go framework for accelerated microservice development
+URL : https://github.com/gofr-dev/gofr
+
+Nom du dépôt : WolfgangOfner/MicroserviceDemo
+Description : This is a demo with two ASP .NET 6 microservices using RabbitMQ and Docker
+URL : https://github.com/WolfgangOfner/MicroserviceDemo
+
+Nom du dépôt : Accenture/reactive-interaction-gateway
+Description : Create low-latency, interactive user experiences for stateless microservices.
+URL : https://github.com/Accenture/reactive-interaction-gateway
+
+Nom du dépôt : vaquarkhan/microservices-recipes-a-free-gitbook
+Description : “If you are working in an organization that places lots of restrictions on how developers can do their work, then microservices may not be for you.”  ― Sam Newman
+URL : https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook
+
+Nom du dépôt : brikis98/infrastructure-as-code-talk
+Description : Sample code for the talk "Infrastructure-as-code: running microservices on AWS with Docker, ECS, and Terraform"
+URL : https://github.com/brikis98/infrastructure-as-code-talk
+
+Nom du dépôt : dotnet-websharper/core
+Description : WebSharper - Full-stack, functional, reactive web apps and microservices in F# and C#
+URL : https://github.com/dotnet-websharper/core
+
+Nom du dépôt : DockerSecurityPlayground/DSP
+Description : A Microservices-based framework for the study of Network Security and Penetration Test techniques
+URL : https://github.com/DockerSecurityPlayground/DSP
+
+Nom du dépôt : eventuate-tram/eventuate-tram-examples-customers-and-orders
+Description : An example of Choreography-based sagas in Spring Boot/JPA microservices
+URL : https://github.com/eventuate-tram/eventuate-tram-examples-customers-and-orders
+
+Nom du dépôt : piomin/sample-spring-microservices
+Description : Many samples in different branches that shows how to create microservices with Spring Boot, Spring Cloud, Zipkin, Zuul, Eureka, Hystrix, Kubernetes, Elastic Stack and many more tools
+URL : https://github.com/piomin/sample-spring-microservices
+
+Nom du dépôt : hexagonkt/hexagon
+Description : Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
+URL : https://github.com/hexagonkt/hexagon
+
+Nom du dépôt : Shyam-Chen/Express-Starter
+Description : :truck: A boilerplate for Node.js, Express, Mongoose, Heroku, Atlas, Nodemon, PM2, and Babel. REST / GraphQL API Server | PaaS | SaaS | CI/CD | Jest | Supertest | Docker | MongoDB | PostgreSQL | Sequelize | Lodash | RxJS | JWT | Passport | WebSocket | Redis | CircleCI | Apollo | DevSecOps | Microservices | Backend Starter Kit | ES6 | ESM | Template
+URL : https://github.com/Shyam-Chen/Express-Starter
+
+Nom du dépôt : saalikmubeen/microservices-architectured-app
+Description : Event-driven microservices architectured e-commerce app created using Express.js,  Typescript, NATS-Streaming and Next.js
+URL : https://github.com/saalikmubeen/microservices-architectured-app
+
+Nom du dépôt : stakater/IngressMonitorController
+Description : A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
+URL : https://github.com/stakater/IngressMonitorController
+
+Nom du dépôt : stitchfix/stitches
+Description : Create a Microservice in Rails with minimal ceremony
+URL : https://github.com/stitchfix/stitches
+
+Nom du dépôt : JoeCao/qbike
+Description : A demo of share bike using DDD, MicroService and Spring Cloud
+URL : https://github.com/JoeCao/qbike
+
+Nom du dépôt : zhufuyi/sponge
+Description : sponge is a powerful golang productivity tool that integrates code generation, web and microservice framework, basic development framework.
+URL : https://github.com/zhufuyi/sponge
+
+Nom du dépôt : keets2012/microservice-integration
+Description : microservice-integration with auth, gateway and backend.
+URL : https://github.com/keets2012/microservice-integration
+
+Nom du dépôt : digota/digota
+Description : ecommerce microservice
+URL : https://github.com/digota/digota
+
+Nom du dépôt : caelum/apostila-microservices-com-spring-cloud
+Description : Apostila do curso de Microservices com Spring Cloud da Caelum.
+URL : https://github.com/caelum/apostila-microservices-com-spring-cloud
+
+Nom du dépôt : qas/examples-nodejs-cqrs-es-swagger
+Description : A Node.js CQRS and Event Sourcing Microservice Example Using Nest.js, Event Store, and Swagger
+URL : https://github.com/qas/examples-nodejs-cqrs-es-swagger
+
+Nom du dépôt : asc-lab/micronaut-microservices-poc
+Description : Very simplified insurance sales system made in a microservices architecture using Micronaut
+URL : https://github.com/asc-lab/micronaut-microservices-poc
+
+Nom du dépôt : diego3g/node-microservices-ddd
+Description : 🚢 Node.js microservice structure with DDD & Monorepo
+URL : https://github.com/diego3g/node-microservices-ddd
+
+Nom du dépôt : eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders
+Description : Spring Boot/JPA microservices that use an orchestration-based saga to maintain data consistency
+URL : https://github.com/eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders
+
+Nom du dépôt : stackvana/microcule
+Description : SDK and CLI for spawning streaming stateless HTTP microservices in multiple programming languages
+URL : https://github.com/stackvana/microcule
+
+Nom du dépôt : RisingStack/trace-nodejs
+Description : Trace is a visualised distributed tracing platform designed for microservices.
+URL : https://github.com/RisingStack/trace-nodejs
+
+Nom du dépôt : hypebeast/micro-auth
+Description : A microservice that makes adding authentication with Google and Github to your application easy.
+URL : https://github.com/hypebeast/micro-auth
+
+Nom du dépôt : 137-rick/Dora-RPC
+Description : DoraRPC is an RPC For the PHP MicroService by The Swoole
+URL : https://github.com/137-rick/Dora-RPC
+
+Nom du dépôt : shortlink-org/shortlink
+Description : Shortlink service (Microservice example)
+URL : https://github.com/shortlink-org/shortlink
+
+Nom du dépôt : cloudframeworks-apigateway/user-guide-apigateway
+Description : [Cloudframeworks]KONG API Gateway - user guide ／ [云框架]KONG API Gateway-用户指南 ／ For API Gateway & Microservice APIs Management ／ API网关 & 微服务API管理
+URL : https://github.com/cloudframeworks-apigateway/user-guide-apigateway
+
+Nom du dépôt : rookie-ninja/rk-boot
+Description : Build microservice with rk-boot and let the team take over clean and tidy code.
+URL : https://github.com/rookie-ninja/rk-boot
+
+Nom du dépôt : minos-framework/minos-python
+Description : 🐍 Minos is a framework which helps you create reactive microservices in Python
+URL : https://github.com/minos-framework/minos-python
+
+Nom du dépôt : apparatus/fuge
+Description : The microservice shell
+URL : https://github.com/apparatus/fuge
+
+Nom du dépôt : spring-cloud-samples/customers-stores
+Description : Two microservices for customers and stores
+URL : https://github.com/spring-cloud-samples/customers-stores
+
+Nom du dépôt : graphul-rs/graphul
+Description : Optimize, speed, scale your microservices and save money 💵
+URL : https://github.com/graphul-rs/graphul
+
+Nom du dépôt : Ordina-Group/microservices-dashboard
+Description : Dashboard for visualizing Spring Boot microservices and the components they link to.
+URL : https://github.com/Ordina-Group/microservices-dashboard
+
+Nom du dépôt : uber-archive/hyperbahn
+Description : Service discovery and routing for large scale microservice operations
+URL : https://github.com/uber-archive/hyperbahn
+
+Nom du dépôt : pawelkaczor/ddd-leaven-akka-v2
+Description : Sample e-commerce system #Microservices #Akka #Reactive-DDD #CQRS
+URL : https://github.com/pawelkaczor/ddd-leaven-akka-v2
+
+Nom du dépôt : palantir/conjure
+Description : Strongly typed HTTP/JSON APIs for browsers and microservices
+URL : https://github.com/palantir/conjure
+
+Nom du dépôt : callistaenterprise/goblog
+Description : Code samples for the Go microservice blog series
+URL : https://github.com/callistaenterprise/goblog
+
+Nom du dépôt : jhipster/jhipster-lite
+Description : JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
+URL : https://github.com/jhipster/jhipster-lite
+
+Nom du dépôt : cudr/slate-collaborative
+Description : slatejs collaborative plugin & microservice https://slate-collaborative.herokuapp.com/
+URL : https://github.com/cudr/slate-collaborative
+
+Nom du dépôt : tinrab/spidey
+Description : A Microservices and GraphQL based online store
+URL : https://github.com/tinrab/spidey
+
+Nom du dépôt : benjsicam/nestjs-rest-microservices
+Description : REST API with gRPC back-end microservices built using the NestJS framework. Used for learning/trial & boilerplate purposes only.
+URL : https://github.com/benjsicam/nestjs-rest-microservices
+
+Nom du dépôt : cashapp/misk
+Description : Microservice Kontainer
+URL : https://github.com/cashapp/misk
+
+Nom du dépôt : gbrayhan/microservices-go
+Description : Golang Microservice Boilerplate using MySQL, Docker and Swagger, API REST. Gin Go and GORM with pagination and implementation of a Clean Architecture.
+URL : https://github.com/gbrayhan/microservices-go
+
+Nom du dépôt : SatoshiPortal/cyphernode
+Description : Modular Bitcoin full-node microservices API server architecture and utilities toolkit to build scalable, secure and featureful apps and services without trusted third parties 
+URL : https://github.com/SatoshiPortal/cyphernode
+
+Nom du dépôt : moleculerjs/awesome-moleculer
+Description : :rocket: A list of awesome things related to Moleculer microservices framework
+URL : https://github.com/moleculerjs/awesome-moleculer
+
+Nom du dépôt : kbastani/event-sourcing-microservices-example
+Description : Learn about building microservices with event sourcing using Spring Boot and how to deploy a social network to Kubernetes using Docker Compose or Helm.
+URL : https://github.com/kbastani/event-sourcing-microservices-example
+
+Nom du dépôt : mudigal-technologies/microservices-sample
+Description : Sample project to create an application using microservices architecture
+URL : https://github.com/mudigal-technologies/microservices-sample
+
+Nom du dépôt : aliyun/alibabacloud-microservice-demo
+Description : An Alibaba Cloud native microservice demo powered by Apache Dubbo and Spring Cloud Alibaba
+URL : https://github.com/aliyun/alibabacloud-microservice-demo
+
+Nom du dépôt : idugalic/micro-company
+Description : Rest-full, Hipermedia-based distributed application. Spring boot & cloud. Angular. CQRS. Eventsourcing. Axonframework. Microservices. Docker. CloudFoundry 
+URL : https://github.com/idugalic/micro-company
+
+Nom du dépôt : godspeedsystems/gs-node-service
+Description : Godspeed microservice framework
+URL : https://github.com/godspeedsystems/gs-node-service
+
+Nom du dépôt : apssouza22/java-microservice
+Description : A full microservice architecture with Java, Spring Cloud, Log management with ELK, Server load balancing with Nginx, Infrastructure management with Docker-compose, JMX application monitoring, JWT, Aspect OP, Distributed events with Kafka, Event Sourcing, CQRS, REST, Web Sockets, Continuous deploy with Jenkins and more
+URL : https://github.com/apssouza22/java-microservice
+
+Nom du dépôt : christopherread/Obvs
+Description : An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
+URL : https://github.com/christopherread/Obvs
+
+Nom du dépôt : unionai-oss/unionml
+Description : UnionML: the easiest way to build and deploy machine learning microservices
+URL : https://github.com/unionai-oss/unionml
+
+Nom du dépôt : nashtech-garage/yas
+Description : YAS: Yet Another Shop, a sample microservices project in Java
+URL : https://github.com/nashtech-garage/yas
+
+Nom du dépôt : second-state/microservice-rust-mysql
+Description : A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
+URL : https://github.com/second-state/microservice-rust-mysql
+
+Nom du dépôt : ing-bank/baker
+Description : Orchestrate microservice-based process flows
+URL : https://github.com/ing-bank/baker
+
+Nom du dépôt : codergogoi/nodejs_microservice
+Description : NodeJS Microservice Architecture Example with the real-time project. This is a practical source code of the NodeJS Microservice tutorial series. Where we have split up a monolithic application into Microservices Architecture. The main goal of this repository is to provide an overview of how the microservices architecture is working with nodejs and what is the complexity we need to resolve to achieve the outcome from a Monolithic architecture.
+URL : https://github.com/codergogoi/nodejs_microservice
+
+Nom du dépôt : networknt/light-oauth2
+Description : A fast, light and cloud native OAuth 2.0 authorization microservices based on light-4j
+URL : https://github.com/networknt/light-oauth2
+
+Nom du dépôt : idugalic/micro-ecommerce
+Description : Rest-full, distributed, ecommerce application. Microservices. Docker.
+URL : https://github.com/idugalic/micro-ecommerce
+
+Nom du dépôt : vaporz/turbo
+Description : A lightweight microservice tool, turn your grpc|thrift APIs into HTTP APIs!
+URL : https://github.com/vaporz/turbo
+
+Nom du dépôt : ebosas/microservices
+Description : A microservices example in Go
+URL : https://github.com/ebosas/microservices
+
+Nom du dépôt : jbossdemocentral/coolstore-microservice
+Description : CoolStore is a containerised polyglot microservices application consisting of services based on JBoss, NodeJS, Spring Boot, WildFly Swarm, Vert.x, Netflix OSS and more running on OpenShift
+URL : https://github.com/jbossdemocentral/coolstore-microservice
+
+Nom du dépôt : prdn/pigato
+Description : PIGATO - an high-performance  Node.js microservices framework
+URL : https://github.com/prdn/pigato
+
+Nom du dépôt : idugalic/digital-restaurant
+Description : DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
+URL : https://github.com/idugalic/digital-restaurant
+
+Nom du dépôt : thangchung/practical-dapr
+Description : A full-stack .NET microservices build on Dapr and Tye
+URL : https://github.com/thangchung/practical-dapr
+
+Nom du dépôt : restran/fomalhaut
+Description : 🚀 A Simple API Gateway for Building Security and Flexible Microservices.
+URL : https://github.com/restran/fomalhaut
+
+Nom du dépôt : microconfig/microconfig
+Description : Modern tool for microservice configuration management
+URL : https://github.com/microconfig/microconfig
+
+Nom du dépôt : abhisheksr01/spring-boot-microservice-best-practices
+Description : Best practices and integrations available for Spring Boot based Microservice in a single repository.
+URL : https://github.com/abhisheksr01/spring-boot-microservice-best-practices
+
+Nom du dépôt : paurakhsharma/python-microservice-fastapi
+Description : Learn to build your own microservice using Python and FastAPI
+URL : https://github.com/paurakhsharma/python-microservice-fastapi
+
+Nom du dépôt : sourcefuse/loopback4-microservice-catalog
+Description : A Catalog of Microservices Created by SourceFuse for the Community
+URL : https://github.com/sourcefuse/loopback4-microservice-catalog
+
+Nom du dépôt : Abdizriel/nodejs-microservice-starter
+Description : :seedling: NodeJS RESTful API Microservice Starter
+URL : https://github.com/Abdizriel/nodejs-microservice-starter
+
+Nom du dépôt : oskardudycz/GoldenEye
+Description : The CQRS flavoured framework that will speed up your WebAPI and Microservices development
+URL : https://github.com/oskardudycz/GoldenEye
+
+Nom du dépôt : AntonioFalcaoJr/EventualShop
+Description : A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Projections, Microservices for individual deployable units, Event-driven Architecture for efficient integration, and Clean Architecture as domain-centric design
+URL : https://github.com/AntonioFalcaoJr/EventualShop
+
+Nom du dépôt : IBM/microservices-traffic-management-using-istio
+Description : Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. In this code we show how we can enable your microservices with advanced traffic management, routing and tracing capabilities leveraging Istio
+URL : https://github.com/IBM/microservices-traffic-management-using-istio
+
+Nom du dépôt : devdcores/BookStoreApp-Distributed-Application
+Description : Ecommerce project is being developed using Spring Boot Microservices and Spring Cloud (Backend) and React (Frontend). Splitting the Ecommerce functionality into various individual microservices so that they can be distributed,  scale really well and make use of resources efficiently. 
+URL : https://github.com/devdcores/BookStoreApp-Distributed-Application
+
+Nom du dépôt : crufters/actio
+Description : The Node.js framework for microservices and monoliths.
+URL : https://github.com/crufters/actio
+
+Nom du dépôt : rexyai/RestRserve
+Description : R web API framework for building high-performance microservices and app backends
+URL : https://github.com/rexyai/RestRserve
+
+Nom du dépôt : Fs02/go-todo-backend
+Description : Go Todo Backend example using modular project layout for product microservice.
+URL : https://github.com/Fs02/go-todo-backend
+
+Nom du dépôt : nameko/nameko-examples
+Description : Nameko microservices example
+URL : https://github.com/nameko/nameko-examples
+
+Nom du dépôt : infiniticio/infinitic
+Description : Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc. 
+URL : https://github.com/infiniticio/infinitic
+
+Nom du dépôt : tarmac-project/tarmac
+Description : Framework for writing functions, microservices, or monoliths with Web Assembly
+URL : https://github.com/tarmac-project/tarmac
+
+Nom du dépôt : dashersw/cote-workshop
+Description : Microservices case study with cote.js
+URL : https://github.com/dashersw/cote-workshop
+
+Nom du dépôt : ujjavaldesai07/spring-boot-react-ecommerce-app
+Description : eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
+URL : https://github.com/ujjavaldesai07/spring-boot-react-ecommerce-app
+
+Nom du dépôt : improbable-eng/kedge
+Description : kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices
+URL : https://github.com/improbable-eng/kedge
+
+Nom du dépôt : openfaas/of-watchdog
+Description : Reverse proxy for STDIO and HTTP microservices
+URL : https://github.com/openfaas/of-watchdog
+
+Nom du dépôt : alugili/ModernArchitectureShop
+Description : The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure for building highly decoupled Microservices; for this reason, I am using  Dapr to achieve the noble goal of building a highly scalable application with clean architecture and clean code. 
+URL : https://github.com/alugili/ModernArchitectureShop
+
+Nom du dépôt : begmaroman/go-micro-boilerplate
+Description : The boilerplate of the GoLang application with a clear microservices architecture.
+URL : https://github.com/begmaroman/go-micro-boilerplate
+
+Nom du dépôt : powerman/go-monolith-example
+Description : Example Go monolith with embedded microservices and The Clean Architecture
+URL : https://github.com/powerman/go-monolith-example
+
+Nom du dépôt : uid4oe/grpc-web-demo
+Description : Dockerized Go microservices and their envoy proxies for a flow which showcases  gRPC for Web Clients. Check the medium story!!!
+URL : https://github.com/uid4oe/grpc-web-demo
+
+Nom du dépôt : theiterators/reactive-microservices
+Description : Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem
+URL : https://github.com/theiterators/reactive-microservices
+
+Nom du dépôt : python-microservices/pyms
+Description : Library of utils to create REST Python Microservices
+URL : https://github.com/python-microservices/pyms
+
+Nom du dépôt : testinggospels/camouflage
+Description : Camouflage is a backend mocking tool for HTTP, gRPC, Websockets and Thrift protocols, which helps you carry out your front end prototyping, unit testing, functional/performance testing in silos, in absence of one or more Microservices/APIs.
+URL : https://github.com/testinggospels/camouflage
+
+Nom du dépôt : santoshshinde2012/node-boilerplate
+Description : Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
+URL : https://github.com/santoshshinde2012/node-boilerplate
+
+Nom du dépôt : viettranx/micro-clean-architecture-service-demo
+Description : A demo microservice with Clean Architecture in practice
+URL : https://github.com/viettranx/micro-clean-architecture-service-demo
+
+Nom du dépôt : tsukhu/nxplorerjs-microservice-starter
+Description : Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
+URL : https://github.com/tsukhu/nxplorerjs-microservice-starter
+
+Nom du dépôt : spring-cloud/stream-applications
+Description : Functions and Spring Cloud Stream Applications for data driven microservices
+URL : https://github.com/spring-cloud/stream-applications
+
+Nom du dépôt : rithinch/event-driven-microservices-docker-example
+Description : 🐳  Simple example of event driven communication between microservices, based on Docker containers, Docker Compose and RabbitMQ. Microservices are implemented in Node.js using Koa.
+URL : https://github.com/rithinch/event-driven-microservices-docker-example
+
+Nom du dépôt : k-bx/owlcloud
+Description : OwnCloud for owls done via The Microservice Architecture
+URL : https://github.com/k-bx/owlcloud
+
+Nom du dépôt : oracle-quickstart/oci-cloudnative
+Description : MuShop - Cloud Native microservices demo for Oracle Cloud Infrastructure
+URL : https://github.com/oracle-quickstart/oci-cloudnative
+
+Nom du dépôt : go-micro/demo
+Description : A microservices demo using go-micro
+URL : https://github.com/go-micro/demo
+
+Nom du dépôt : aklivity/zilla
+Description : 🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, and microservices to Apache Kafka® via declaratively defined, stateless APIs.
+URL : https://github.com/aklivity/zilla
+
+Nom du dépôt : nstack/nstack
+Description : Type-safe, composable microservices for data analytics
+URL : https://github.com/nstack/nstack
+
+Nom du dépôt : ThreeDotsLabs/monolith-microservice-shop
+Description : Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
+URL : https://github.com/ThreeDotsLabs/monolith-microservice-shop
+
+Nom du dépôt : edgelesssys/marblerun
+Description : MarbleRun is the control plane for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native, 100% confidential.
+URL : https://github.com/edgelesssys/marblerun
+
+Nom du dépôt : magoo/AuthTables
+Description : AuthTables is a microservice that helps detect "Account Take Over" caused by simple credential theft. If bad actors are stealing your users passwords, AuthTables may be useful.
+URL : https://github.com/magoo/AuthTables
+
+Nom du dépôt : berndruecker/camunda-7-springboot-amqp-microservice-cloud-example
+Description : Simple example using Camunda and Spring Boot to define a simple microservice communcating via AMQP, fully unit tested and deployable in the cloud
+URL : https://github.com/berndruecker/camunda-7-springboot-amqp-microservice-cloud-example
+
+Nom du dépôt : baranbartu/microservices-with-fastapi
+Description : Microservices, API Gateway, Authentication with FastAPI, non-blocking i/o
+URL : https://github.com/baranbartu/microservices-with-fastapi
+
+Nom du dépôt : DanWahlin/Angular-Docker-Microservices
+Description : Example of serving an Angular app to the browser using nginx. App calls Node.js/MongoDB and ASP.NET Core/PostgreSQL microservices.
+URL : https://github.com/DanWahlin/Angular-Docker-Microservices
+
+Nom du dépôt : rahulsahay19/eShopping
+Description : Clean Architecture Microservices example of .Net Core
+URL : https://github.com/rahulsahay19/eShopping
+
+Nom du dépôt : merikbest/twitter-spring-reactjs
+Description : :bird: Twitter Clone with Microservice Architecture using Java 17, Spring Boot, Spring Cloud, PostgreSQL, S3 bucket, JWT, TypeScript, React.js, Redux-Saga, Material-UI
+URL : https://github.com/merikbest/twitter-spring-reactjs
+
+Nom du dépôt : benjsicam/nestjs-graphql-microservices
+Description : GraphQL API with gRPC back-end microservices built using the NestJS framework. Used for learning/trial & boilerplate purposes only.
+URL : https://github.com/benjsicam/nestjs-graphql-microservices
+
+Nom du dépôt : eventuate-examples/eventuate-examples-restaurant-management
+Description : Event-driven microservices version of restaurant management from POJOs in Action
+URL : https://github.com/eventuate-examples/eventuate-examples-restaurant-management
+
+Nom du dépôt : sivaprasadreddy/generator-springboot
+Description : A Yeoman generator for generating Microservice with SpringBoot
+URL : https://github.com/sivaprasadreddy/generator-springboot
+
+Nom du dépôt : piomin/sample-spring-microservices-advanced
+Description : More advanced samples of spring boot and spring cloud microservices showing usage of such tools like api Swagger2 on Zuul, integraction with MongoDB, configuration server, testing with Spring Cloud Contract or Hoverfly
+URL : https://github.com/piomin/sample-spring-microservices-advanced
+
+Nom du dépôt : azist/azos
+Description : A to Z Sky Operating System / Microservice Chassis Framework
+URL : https://github.com/azist/azos
+
+Nom du dépôt : RobyFerro/go-web
+Description : A Golang framework for build microservices.
+URL : https://github.com/RobyFerro/go-web
+
+Nom du dépôt : piomin/sample-spring-kafka-microservices
+Description : Example microservices showing how to use Kafka and Kafka Streams with Spring Boot on the example of distributed transactions implementations with the SAGA pattern 
+URL : https://github.com/piomin/sample-spring-kafka-microservices
+
+Nom du dépôt : 4finance/micro-infra-spring
+Description : Repository containing default microservice infrastructure set up using Spring configuration
+URL : https://github.com/4finance/micro-infra-spring
+
+Nom du dépôt : william-tran/microservice-security
+Description : Building OAuth2 secured microservices with Spring Cloud Security. From my talk at SpringOne2GX 2015 
+URL : https://github.com/william-tran/microservice-security
+
+Nom du dépôt : BackendWorks/nestjs-microservices
+Description : 🚀 Fully managed Microservices starter pack using NestJs, RabbitMQ, Kong api gateway, MongoDB, PostgreSQL, Grafana, Loki, Fluentbit.
+URL : https://github.com/BackendWorks/nestjs-microservices
+
+Nom du dépôt : Baroshem/microservice-template
+Description : 📖 Nest.js based microservice repository template
+URL : https://github.com/Baroshem/microservice-template
+
+Nom du dépôt : xmlking/micro-starter-kit
+Description : Cloud Native GoLang Microservices - gRPC, GraphQL
+URL : https://github.com/xmlking/micro-starter-kit
+
+Nom du dépôt : WonderPanda/nestjs-microservice-architecture
+Description : A reference architecture for building microservices with Nest
+URL : https://github.com/WonderPanda/nestjs-microservice-architecture
+
+Nom du dépôt : geoserver/geoserver-cloud
+Description : Cloud Native GeoServer is GeoServer ready to use in the cloud through dockerized microservices.
+URL : https://github.com/geoserver/geoserver-cloud
+
+Nom du dépôt : PacktPublishing/Hands-On-Docker-for-Microservices-with-Python
+Description : Hands-On Docker for Microservices with Python, published by Packt
+URL : https://github.com/PacktPublishing/Hands-On-Docker-for-Microservices-with-Python
+
+Nom du dépôt : senecajs/ramanujan
+Description : An example microservice system using Seneca, based on the example in Chapter 1 of The Tao of Microservices book
+URL : https://github.com/senecajs/ramanujan
+
+Nom du dépôt : mikemajesty/nestjs-microservice-boilerplate-api
+Description : Nestjs boilerplate microservice api | Mongodb CRUD - Postgres CRUD | Docker | Husky | Secrets service | HTTP service | Logs service | Authentication | Authorization | Error Handler | Swaggger Documentation | Mongo Generic Repository | Postgres Generic Repository
+URL : https://github.com/mikemajesty/nestjs-microservice-boilerplate-api
+
+Nom du dépôt : AleksK1NG/Go-gRPC-RabbitMQ-microservice
+Description : Go gRPC RabbitMQ email microservice
+URL : https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice
+
+Nom du dépôt : benschw/go-todo
+Description : TODO microservice written in go with Gin
+URL : https://github.com/benschw/go-todo
+
+Nom du dépôt : odrotbohm/rest-microservices
+Description : Sample for Spring Boot based REST microservices
+URL : https://github.com/odrotbohm/rest-microservices
+
+Nom du dépôt : otto-de/tesla-microservice
+Description : Common basis for some of otto.de's clojure microservices
+URL : https://github.com/otto-de/tesla-microservice
+
+Nom du dépôt : wso2/micro-integrator
+Description : The cloud-native configuration driven runtime that helps developers implement composite microservices.
+URL : https://github.com/wso2/micro-integrator
+
+Nom du dépôt : WeBankFinTech/DeFiBus
+Description : DeFiBus is a decentralized finacial message bus for microservices, provide request/reply, unicast, multi-cast, broadcast, delay-message etc, and also privide service governance capacity and operation tools.
+URL : https://github.com/WeBankFinTech/DeFiBus
+
+Nom du dépôt : lyft/discovery
+Description : This service provides a REST interface for querying for the list of hosts that belong to all microservices.
+URL : https://github.com/lyft/discovery
+
+Nom du dépôt : kalaspuff/tomodachi
+Description : 💻 Microservice lib designed to ease service building using Python and asyncio, with ready to use support for  HTTP + WS, AWS SNS+SQS, RabbitMQ / AMQP, middlewares, envelopes, logging, lifecycles. Extend to GraphQL, protobuf, etc.
+URL : https://github.com/kalaspuff/tomodachi
+
+Nom du dépôt : scalecube/socketio
+Description : Socket.IO Java Server based on Netty. was created to meet gaming performance requirements. battle tested and in use by Playtech Microservices API Gateway.
+URL : https://github.com/scalecube/socketio
+
+Nom du dépôt : mnadeem/boot-opentelemetry-tempo
+Description : Project demonstrating Complete Observability Stack utilizing Prometheus, Loki (For distributed logging), Tempo (For Distributed tracing, this basically uses Jaeger Internally), Grafana for Java/spring based applications (With OpenTelemetry auto / manual Instrumentation) involving multiple microservices with DB interactions
+URL : https://github.com/mnadeem/boot-opentelemetry-tempo
+
+Nom du dépôt : diego3g/microservices-base-decode
+Description : Application made for the Decode #20 (Microservices fundaments)
+URL : https://github.com/diego3g/microservices-base-decode
+
+Nom du dépôt : aws-samples/one-observability-demo
+Description : Sample microservice based application demonstrating observability capabilities on AWS
+URL : https://github.com/aws-samples/one-observability-demo
+
+Nom du dépôt : streamthoughts/azkarra-streams
+Description : 🚀 Azkarra is a lightweight java framework to make it easy to develop, deploy and manage cloud-native streaming microservices based on Apache Kafka Streams.
+URL : https://github.com/streamthoughts/azkarra-streams
+
+Nom du dépôt : yidongnan/spring-cloud-consul-example
+Description : spring-cloud-consul-example is an example for microservices system
+URL : https://github.com/yidongnan/spring-cloud-consul-example
+
+Nom du dépôt : Toktik-Team/toktik
+Description : ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
+URL : https://github.com/Toktik-Team/toktik
+
+Nom du dépôt : mostafacs/ecommerce-microservices-spring-reactive-webflux
+Description : E-commerce demo with spring reactive webflux and spring cloud microservice
+URL : https://github.com/mostafacs/ecommerce-microservices-spring-reactive-webflux
+
+Nom du dépôt : uid4oe/microservices-go-grpc
+Description : Go microservices with REST, and gRPC for demonstrating the BFF pattern. This repository contains backend services. Everything is dockerized and ready to  "Go" :-)
+URL : https://github.com/uid4oe/microservices-go-grpc
+
+Nom du dépôt : pace/bricks
+Description : A standard library for microservices.
+URL : https://github.com/pace/bricks
+
+Nom du dépôt : dwmkerr/node-docker-microservice
+Description : Demonstrates how to build a testable, deployable, scalable microservice with NodeJS and Docker.
+URL : https://github.com/dwmkerr/node-docker-microservice
+
+Nom du dépôt : alexellis/expressjs-k8s
+Description : Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
+URL : https://github.com/alexellis/expressjs-k8s
+
+Nom du dépôt : AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices
+Description : Go gRPC Kafka CQRS microservices with tracing
+URL : https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices
+
+Nom du dépôt : mmacneil/ASPNETCoreDockerMicroservices
+Description : Sample project for getting off the ground with ASP.NET Core, Docker and Microservices based on the tutorial: https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code
+URL : https://github.com/mmacneil/ASPNETCoreDockerMicroservices
+
+Nom du dépôt : iPzard/electron-react-python-template
+Description : Multi-platform Electron template, using React & Redux Toolkit on the front-end and Python/Flask for microservices on the back-end.
+URL : https://github.com/iPzard/electron-react-python-template
+
+Nom du dépôt : python-microservices/microservices-scaffold
+Description : Barebone Python Microservices with Flask
+URL : https://github.com/python-microservices/microservices-scaffold
+
+Nom du dépôt : PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample
+Description : Login & Signup tutorial for every website ,mixes a lot of microservices together with the latest spring framework api in combined with full security
+URL : https://github.com/PanagiotisDrakatos/SpringBoot-Registration-Login-ThePerfectExample
+
+Nom du dépôt : carnellj/spmia-chapter1
+Description : Chapter 1 for Spring Microservices in Action
+URL : https://github.com/carnellj/spmia-chapter1
+
+Nom du dépôt : Azure/Bridge-To-Kubernetes
+Description : Bridge To Kubernetes (B2K) is development tool to debug microservices, pods which redirects traffic to your local development machine and vice versa.
+URL : https://github.com/Azure/Bridge-To-Kubernetes
+
+Nom du dépôt : mnadeem/nodejs-opentelemetry-tempo
+Description : Project demonstrating Complete Observability Stack utilizing Prometheus, Loki (For distributed logging), Tempo (For Distributed tracing, this basically uses Jaeger Internally), Grafana for NodeJs based applications (With OpenTelemetry auto / manual Instrumentation) involving microservices with DB interactions.
+URL : https://github.com/mnadeem/nodejs-opentelemetry-tempo
+
+Nom du dépôt : amalgam8/amalgam8
+Description : Content and Version-based Routing Fabric for Polyglot Microservices
+URL : https://github.com/amalgam8/amalgam8
+
+Nom du dépôt : erda-project/erda-infra
+Description : Erda Infra is a lightweight microservices framework implements by golang, which offers many useful modules and tools to help you quickly build a module-driven application
+URL : https://github.com/erda-project/erda-infra
+
+Nom du dépôt : up9inc/mockintosh
+Description : Mocks for microservice environments
+URL : https://github.com/up9inc/mockintosh
+
+Nom du dépôt : oslabs-beta/Interspect
+Description : An API mocking tool for testing data interoperability between microservices and secure HTTP endpoints
+URL : https://github.com/oslabs-beta/Interspect
+
+Nom du dépôt : Joker666/microservice-demo
+Description : A cloud-native project management microservice application. Services are built with various technologies e.g Go, NodeJS, Python, Ruby, MongoDB, MySQL, PostgreSQL
+URL : https://github.com/Joker666/microservice-demo
+
+Nom du dépôt : sonufrienko/microservice
+Description : Ready to use Node.js microservice
+URL : https://github.com/sonufrienko/microservice
+
+Nom du dépôt : Microservice-API-Patterns/LakesideMutual
+Description : Example Application for Microservice API Patterns (MAP) and other patterns (DDD, PoEAA, EIP)
+URL : https://github.com/Microservice-API-Patterns/LakesideMutual
+
+Nom du dépôt : tlandeka/authentication-microservice-with-domain-driven-design
+Description : Microservice for authentication with Domain Driven Design and CQRS
+URL : https://github.com/tlandeka/authentication-microservice-with-domain-driven-design
+
+Nom du dépôt : enterprise-oss/osso
+Description : A Ruby OAuth microservice for SAML based authentication
+URL : https://github.com/enterprise-oss/osso
+
+Nom du dépôt : Double-Jin/jin-microservices
+Description : Jin microservices is a complete microservice demo based on PHP language + hyperf microservices framework
+URL : https://github.com/Double-Jin/jin-microservices
+
+Nom du dépôt : vany0114/microservices-dotnetcore-docker-sf-k8s
+Description : Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.
+URL : https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
+
+Nom du dépôt : ImmoweltGroup/create-react-microservice
+Description : 🚀 Create highly scalable and universal React microservices/applications within seconds.
+URL : https://github.com/ImmoweltGroup/create-react-microservice
+
+Nom du dépôt : mabuonomo/example-nestjs-microservices-grpc
+Description : NestJS + gRPC: a multi microservices example
+URL : https://github.com/mabuonomo/example-nestjs-microservices-grpc
+
+Nom du dépôt : MycroftAI/selene-backend
+Description : Microservices and web apps to support Mycroft devices
+URL : https://github.com/MycroftAI/selene-backend
+
+Nom du dépôt : holmes89/hex-example
+Description : Little API to demonstrate various microservice design principles and technologies
+URL : https://github.com/holmes89/hex-example
+
+Nom du dépôt : Clivern/Hippo
+Description : 💨A well crafted go packages that help you build robust, reliable, maintainable microservices.
+URL : https://github.com/Clivern/Hippo
+
+Nom du dépôt : nginxinc/mra-ingenious
+Description : A photo-sharing app built by NGINX and implemented using the Fabric Model from the Microservices Reference Architecture.
+URL : https://github.com/nginxinc/mra-ingenious
+
+Nom du dépôt : vadimdemedes/generator-micro-service
+Description : 🛫 Yeoman generator to kick-start your microservice with `micro` and `ava`!
+URL : https://github.com/vadimdemedes/generator-micro-service
+
+Nom du dépôt : senecajs/seneca-mesh
+Description : Mesh your Seneca.js microservices together - no more service discovery!
+URL : https://github.com/senecajs/seneca-mesh
+
+Nom du dépôt : francescou/docker-continuous-deployment
+Description : continuous deployment of a microservices application with Docker
+URL : https://github.com/francescou/docker-continuous-deployment
+
+Nom du dépôt : module-federation/aegis
+Description : Module federation for the backend. Aegis core lib. Regain control of your microservices by consolidating them into one or more shared processes without loosing deployment or language independence. Eliminate the need for deployment automation. Let services deploy themselves. 
+URL : https://github.com/module-federation/aegis
+
+Nom du dépôt : IBM/innovate-digital-bank
+Description : This repository contains instructions to build a digital bank composed of a set of microservices that communicate with each other. Using Nodejs, Express, MongoDB and deployed to a Kubernetes cluster on IBM Cloud.
+URL : https://github.com/IBM/innovate-digital-bank
+
+Nom du dépôt : evenchange4/micro-medium-api
+Description : Microservice for fetching the latest posts of Medium with GraphQL.
+URL : https://github.com/evenchange4/micro-medium-api
+
+Nom du dépôt : suadev/dotnet-istanbul-microservices-demo
+Description : This is the demo application that i created for my talk 'Microservice Architecture & Implementation with Asp.Net Core' at Dotnet İstanbul Meetup Group.
+URL : https://github.com/suadev/dotnet-istanbul-microservices-demo
+
+Nom du dépôt : AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice
+Description : Go products microservice
+URL : https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice
+
+Nom du dépôt : moleculer-go/moleculer
+Description : 🚀 Progressive microservices framework for Go - based and compatible with https://github.com/moleculerjs/moleculer
+URL : https://github.com/moleculer-go/moleculer
+
+Nom du dépôt : kalisio/feathers-distributed
+Description : Distribute your Feathers services as microservices
+URL : https://github.com/kalisio/feathers-distributed
+
+Nom du dépôt : rodrigorodrigues/microservices-design-patterns
+Description : Microservice Architecture using multiple languages
+URL : https://github.com/rodrigorodrigues/microservices-design-patterns
+
+Nom du dépôt : pagarme/tldr
+Description : :scroll: A microservice to store and display sales receipts
+URL : https://github.com/pagarme/tldr
+
+Nom du dépôt : lamondlu/Library
+Description : A microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
+URL : https://github.com/lamondlu/Library
+
+Nom du dépôt : absolutegalaber/jwt-oauth2-example
+Description : Demo for OAuth2 JWT based authorziation / authentication for MicroServices
+URL : https://github.com/absolutegalaber/jwt-oauth2-example
+
+Nom du dépôt : aws-samples/aws-step-functions-long-lived-transactions
+Description : Deal with the complexities of dealing with a long lived transaction across distributed components in your microservices architecture using AWS Step Functions.
+URL : https://github.com/aws-samples/aws-step-functions-long-lived-transactions
+
+Nom du dépôt : madslundt/NetCoreMediatrSample
+Description : A project that exemplifies a well-considered architectural approach that combines the advantages of both monolithic and microservices paradigms, fostering modularity, maintainability, and scalability.
+URL : https://github.com/madslundt/NetCoreMediatrSample
+
+Nom du dépôt : devmentors/FeedR
+Description : Microservices sample solution for YouTube videos services
+URL : https://github.com/devmentors/FeedR
+
+Nom du dépôt : LandRover/StaffjoyV2
+Description : Staffjoy V2 - all microservices in a monorepo
+URL : https://github.com/LandRover/StaffjoyV2
+
+Nom du dépôt : cdipaolo/sentiment-server
+Description : Simple, Modular Microservice For Language Sentiment
+URL : https://github.com/cdipaolo/sentiment-server
+
+Nom du dépôt : aws-samples/reactive-refarch-cloudformation
+Description : Reactive Microservices Architectures with Amazon ECS, AWS Lambda, Amazon Kinesis Streams, Amazon ElastiCache, and Amazon DynamoDB
+URL : https://github.com/aws-samples/reactive-refarch-cloudformation
+
+Nom du dépôt : goldsborough/microservice-rs
+Description : Tutorial codebase for writing a microservice in Rust
+URL : https://github.com/goldsborough/microservice-rs
+
+Nom du dépôt : hueter/docker-node-express-boilerplate
+Description : Boilerplate for quickly bootstrapping production-ready RESTful APIs / microservices
+URL : https://github.com/hueter/docker-node-express-boilerplate
+
+Nom du dépôt : noisyboiler/wampy
+Description : Websocket RPC and Pub/Sub for Python applications and microservices
+URL : https://github.com/noisyboiler/wampy
+
+Nom du dépôt : swarmion/swarmion
+Description : A set of tools to build and deploy type-safe Serverless microservices
+URL : https://github.com/swarmion/swarmion
+
+Nom du dépôt : AleksK1NG/Go-EventSourcing-CQRS
+Description : Go Event Sourcing CQRS Microservice
+URL : https://github.com/AleksK1NG/Go-EventSourcing-CQRS
+
+Nom du dépôt : fuinorg/ddd-cqrs-4-java-example
+Description : Example Java DDD/CQRS/Event Sourcing microservices with Quarkus, Spring Boot and EventStore from Greg Young.
+URL : https://github.com/fuinorg/ddd-cqrs-4-java-example
+
+Nom du dépôt : benc-uk/dapr-store
+Description : Sample application showcasing the use of Dapr to build microservices based apps 
+URL : https://github.com/benc-uk/dapr-store
+
+Nom du dépôt : subfuzion/voting-app
+Description : Example containerized microservices Voting App based on the original Docker version. bit.ly/voting-app-with-docker
+URL : https://github.com/subfuzion/voting-app
+
+Nom du dépôt : buptmiao/microservice-app
+Description : A  microservices architecture app powered by golang.
+URL : https://github.com/buptmiao/microservice-app
+
+Nom du dépôt : spring-petclinic/spring-petclinic-cloud
+Description : Fork of the Spring Cloud Microservices project packaged to be deployed on several Cloud platforms: Kubernetes and Cloud Foundry
+URL : https://github.com/spring-petclinic/spring-petclinic-cloud
+
+Nom du dépôt : nirum-lang/nirum
+Description :  Nirum: IDL compiler and RPC/distributed object framework for microservices
+URL : https://github.com/nirum-lang/nirum
+
+Nom du dépôt : mify-io/mify
+Description : microservices for you
+URL : https://github.com/mify-io/mify
+
+Nom du dépôt : juliofalbo/complete-microservices-env
+Description : This is a whole environment of a Microservices Architecture using Spring Cloud, Splunk, Zipkin, Grafana, Prometheus, Postgres with Replication Strategy, Redis and RabbitMQ.
+URL : https://github.com/juliofalbo/complete-microservices-env
+
+Nom du dépôt : Nike-Inc/riposte
+Description : Riposte is a Netty-based microservice framework for rapid development of production-ready HTTP APIs.
+URL : https://github.com/Nike-Inc/riposte
+
+Nom du dépôt : hemerajs/aither
+Description : An example microservice system in Node.js using Hemera and best of today.
+URL : https://github.com/hemerajs/aither
+
+Nom du dépôt : rbanks54/microcafe
+Description : Sample code to show microservices using NET, in the context of a cafe
+URL : https://github.com/rbanks54/microcafe
+
+Nom du dépôt : EliasKotlyar/yowsup-microservice
+Description : Microservice for yowsup
+URL : https://github.com/EliasKotlyar/yowsup-microservice
+
+Nom du dépôt : eiselems/spring-boot-microservices
+Description : This repo is part of a tutorial about writing microservices using Spring Boot
+URL : https://github.com/eiselems/spring-boot-microservices
+
+Nom du dépôt : thangchung/northwind-dotnet
+Description : A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
+URL : https://github.com/thangchung/northwind-dotnet
+
+Nom du dépôt : zalando/friboo
+Description : Utility library for writing microservices in Clojure, with support for Swagger and OAuth
+URL : https://github.com/zalando/friboo
+
+Nom du dépôt : sksmith/go-micro-example
+Description : A production-ready microservice using Go and a few lightweight libraries
+URL : https://github.com/sksmith/go-micro-example
+
+Nom du dépôt : fvst-dev/fvst-monorepo
+Description : An example of how to set up microservices architecture on GCP
+URL : https://github.com/fvst-dev/fvst-monorepo
+
+Nom du dépôt : PacktPublishing/Hands-on-Microservices-with-Python
+Description : Hands-on Microservices with Python [ video], published by Packt
+URL : https://github.com/PacktPublishing/Hands-on-Microservices-with-Python
+
+Nom du dépôt : smallnest/rpcx-rs
+Description : rpcx microservice framework in Rust
+URL : https://github.com/smallnest/rpcx-rs
+
+Nom du dépôt : benjsicam/nodejs-graphql-microservices
+Description : GraphQL API with gRPC back-end microservices written in Node.js. Used for learning/trial & boilerplate purposes only.
+URL : https://github.com/benjsicam/nodejs-graphql-microservices
+
+Nom du dépôt : lxlxw/s3-micro
+Description : This project is an upload and download microservice of Amazon S3.
+URL : https://github.com/lxlxw/s3-micro
+
+Nom du dépôt : mattvonrocketstein/elixir-microservice-architecture
+Description : A sketch of a microservice architecture in Elixir, using clustered VMs, docker-compose, Redis, HAProxy
+URL : https://github.com/mattvonrocketstein/elixir-microservice-architecture
+
+Nom du dépôt : YuKongEr/panda-cloud
+Description : Base on SpringCloud MicroService Framework
+URL : https://github.com/YuKongEr/panda-cloud
+
+Nom du dépôt : tinrab/kubernetes-go-grpc-tutorial
+Description : Getting Started with Microservices using Go, gRPC and Kubernetes
+URL : https://github.com/tinrab/kubernetes-go-grpc-tutorial
+
+Nom du dépôt : SelimHorri/ecommerce-microservice-backend-app
+Description : Spring Boot microservices app with Spring Cloud, Robust and resilient backend managing e-Commerce app
+URL : https://github.com/SelimHorri/ecommerce-microservice-backend-app
+
+Nom du dépôt : Fcakiroglu16/UdemyMicroservices
+Description : Udemy | .Net 5 ile Microservices
+URL : https://github.com/Fcakiroglu16/UdemyMicroservices
+
+Nom du dépôt : dailymotion/oplog
+Description : A generic oplog/replication system for microservices
+URL : https://github.com/dailymotion/oplog
+
+Nom du dépôt : evgenirusev/Distributed-eStore
+Description : Ecommerce SPA application with a microservices architecture implemented from scratch. Tech stack - Docker, Consul, Fabio, RabbitMQ, .Net Core, Mediatr, CQRS, React, Redux. .NET Core Microservices template, .NET React Redux, .NET RabbitMQ, .NET Distributed, Docker, .NET Core with Docker.
+URL : https://github.com/evgenirusev/Distributed-eStore
+
+Nom du dépôt : claygod/microservice
+Description : This library provides a simple microservice framework based on clean architecture principles with a working example implemented.
+URL : https://github.com/claygod/microservice
+
+Nom du dépôt : go-saas/kit
+Description : Microservice compatible starter kit for golang sass project
+URL : https://github.com/go-saas/kit
+
+Nom du dépôt : thanhson1085/swagger-combined
+Description : Combines all swagger documents in microservices
+URL : https://github.com/thanhson1085/swagger-combined
+
+Nom du dépôt : Payum/PayumServer
+Description : Payment processing microservice. Written in Symfony4
+URL : https://github.com/Payum/PayumServer
+
+Nom du dépôt : jitta/spinal
+Description : A node.js microservices framework that designs for scalability, simple to code and easy to maintenance
+URL : https://github.com/jitta/spinal
+
+Nom du dépôt : hammock-project/hammock
+Description : CDI Based Microservices
+URL : https://github.com/hammock-project/hammock
+
+Nom du dépôt : autopilotpattern/nodejs-example
+Description : Example microservices implementation using Node.js
+URL : https://github.com/autopilotpattern/nodejs-example
+
+Nom du dépôt : AleksK1NG/Go-GRPC-Auth-Microservice
+Description : Go GRPC Auth Microservice
+URL : https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice
+
+Nom du dépôt : thisisagile/easy
+Description : Straightforward library for building domain-driven microservice architectures, implementing a simple evolutionary architecture.
+URL : https://github.com/thisisagile/easy
+
+Nom du dépôt : purpledb/purple
+Description : An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
+URL : https://github.com/purpledb/purple
+
+Nom du dépôt : niiknow/docker-nginx-image-proxy
+Description : on the fly image cropping with gravity, resize and compression microservice
+URL : https://github.com/niiknow/docker-nginx-image-proxy
+
+Nom du dépôt : msokk/electron-render-service
+Description : Microservice for rendering PDF/PNG/JPEG from HTML with Electron
+URL : https://github.com/msokk/electron-render-service
+
+Nom du dépôt : nicholasjackson/building-microservices-in-go
+Description : Example code to accompany the book building Microservices in go
+URL : https://github.com/nicholasjackson/building-microservices-in-go
+
+Nom du dépôt : cassiomolin/log-aggregation-spring-boot-elastic-stack
+Description : Example on how to use Elastic Stack with Docker to collect, process, store, index and visualize logs of Spring Boot microservices.
+URL : https://github.com/cassiomolin/log-aggregation-spring-boot-elastic-stack
+
+Nom du dépôt : itsmebhavin/nestjs-microservice-example
+Description : Example code for nestjs microservice using REDIS
+URL : https://github.com/itsmebhavin/nestjs-microservice-example
+
+Nom du dépôt : rordi/docker-antivirus
+Description : 880K pulls from Docker Hub - Docker antivirus & malware scanning (antivirus as a microservice / antivirus as a container) 🐳
+URL : https://github.com/rordi/docker-antivirus
+
+Nom du dépôt : tanerdiler/spring-boot-microservice-eureka-zuul-docker-gateway-kubernetes
+Description : Spring Boot rest microservices using Kubernetes, ConfigMap, Eureka, Zuul / Spring Boot Gateway, Docker. Monitoring with logstash, logback, elasticsearch, kibana.
+URL : https://github.com/tanerdiler/spring-boot-microservice-eureka-zuul-docker-gateway-kubernetes
+
+Nom du dépôt : IBM/resilient-java-microservices-with-istio
+Description : In this code we demonstrate how to build, deploy, connect resilient Java microservices leveraging Istio service mesh. We show how to configure and use circuit breakers, timeouts/retries, rate limits and other advanced resiliency features from Istio without changing the application code.
+URL : https://github.com/IBM/resilient-java-microservices-with-istio
+
+Nom du dépôt : benc-uk/smilr
+Description : Microservices reference app showcasing a range of technologies, platforms & methodologies 
+URL : https://github.com/benc-uk/smilr
+
+Nom du dépôt : swarmion/template
+Description : An opinionated Serverless monorepo microservices architecture
+URL : https://github.com/swarmion/template
+
+Nom du dépôt : JarrodMalkovic/auction-website
+Description : A full-stack real-time auction website built using a microservices architecture 
+URL : https://github.com/JarrodMalkovic/auction-website
+
+Nom du dépôt : yamalight/microwork
+Description : Microwork - simple creation of distributed scalable microservices in node.js with RabbitMQ
+URL : https://github.com/yamalight/microwork
+
+Nom du dépôt : musobarlab/ecommerce-grpc-microservice
+Description : (On Progress) Lab (Building E-Commerce  Microservices using Golang, Rest and GRPC with Multiple Docker Container)
+URL : https://github.com/musobarlab/ecommerce-grpc-microservice
+
+Nom du dépôt : tsawler/go-microservices
+Description : Example microservice based project written in Go
+URL : https://github.com/tsawler/go-microservices
+
+Nom du dépôt : danionescu0/docker-flask-mongodb-example
+Description : Uses docker compose with a python flask microservice and MongoDB instance to make a sample application
+URL : https://github.com/danionescu0/docker-flask-mongodb-example
+
+Nom du dépôt : craftingjava/springuni-particles
+Description : Small and re-usable modules for building microservices
+URL : https://github.com/craftingjava/springuni-particles
+
+Nom du dépôt : suadev/microservices-change-data-capture-with-debezium
+Description :  Microservices data exchange with change data capture and outbox pattern.
+URL : https://github.com/suadev/microservices-change-data-capture-with-debezium
+
+Nom du dépôt : tinkerbell/pbnj
+Description : Microservice that communicates with BMCs to control power, boot, etc
+URL : https://github.com/tinkerbell/pbnj
+
+Nom du dépôt : IBM/GameOn-Java-Microservices-on-Kubernetes
+Description : This code demonstrates deployment of a Microservices based application Game On! on to Kubernetes cluster. Game On! is a throwback text-based adventure built to help you explore microservice architectures and related concepts.
+URL : https://github.com/IBM/GameOn-Java-Microservices-on-Kubernetes
+
+Nom du dépôt : ArmandJ77-zz/CQRSAndMediator-Microservice
+Description : A microservice architecture template which implements the CQRS and Mediator patterns
+URL : https://github.com/ArmandJ77-zz/CQRSAndMediator-Microservice
+
+Nom du dépôt : andrechristikan/ack-nestjs-boilerplate-kafka
+Description : Hybrid NestJs v9.x Boilerplate. Repository Design Pattern. Kafka Microservice. MongoDB(mongoose). Support Containerization.
+URL : https://github.com/andrechristikan/ack-nestjs-boilerplate-kafka
+
+Nom du dépôt : benwilcock/spring-cloud-stream-demo
+Description : Simple Event Driven Microservices with Spring Cloud Stream
+URL : https://github.com/benwilcock/spring-cloud-stream-demo
+
+Nom du dépôt : o19s/hello-nlp
+Description : A natural language search microservice
+URL : https://github.com/o19s/hello-nlp
+
+Nom du dépôt : WendellAdriel/spring-microservices
+Description : Example of a microservice architecture using Spring Cloud
+URL : https://github.com/WendellAdriel/spring-microservices
+
+Nom du dépôt : clusterfk/chaos-proxy
+Description : ClusterFk Chaos Proxy is an unreliable HTTP proxy you can rely on; a lightweight tool designed for chaos testing of microservices.
+URL : https://github.com/clusterfk/chaos-proxy
+
+Nom du dépôt : rinormaloku/istio-mastery
+Description : (outdated) Source code for the article Back to Microservices with Istio 
+URL : https://github.com/rinormaloku/istio-mastery
+
+Nom du dépôt : wuyichen24/microservices-patterns
+Description : The source code of the book "Microservices Patterns (Chris Richardson)"  and the personal study note of Eventuate Tram Framework  (The whole solution of transactional messaging for Spring Boot microservices).
+URL : https://github.com/wuyichen24/microservices-patterns
+
+Nom du dépôt : Jon-Peppinck/messenger-api
+Description : Facebook Messenger Microservice API - NestJS, RabbitMQ, Docker, Postgres, Redis
+URL : https://github.com/Jon-Peppinck/messenger-api
+
+Nom du dépôt : deqode/GoArcc
+Description : Go monolith with embedded microservices including GRPC,REST,GraphQL and The Clean Architecture.
+URL : https://github.com/deqode/GoArcc
+
+Nom du dépôt : sunrise-php/awesome-skeleton
+Description : 🚧 Version 4.0 coming soon! Awesome Skeleton for modern development on PHP 7.4+ (incl. PHP 8). Contains quality tested packages, thoughtful structure and everything you need to develop microservices.
+URL : https://github.com/sunrise-php/awesome-skeleton
+
+Nom du dépôt : autopilotpattern/workshop
+Description : Self-assembling microservices demo
+URL : https://github.com/autopilotpattern/workshop
+
+Nom du dépôt : AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice
+Description : Java-Spring-CRQS-Eventsourcing-Microservice
+URL : https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice
+
+Nom du dépôt : chrberger/libcluon
+Description : libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
+URL : https://github.com/chrberger/libcluon
+
+Nom du dépôt : sofastack/sofa-serverless
+Description : a framework to enabe app architecture evolve from monolithic to microservices smoothly by involving modular and macroservices architecture.
+URL : https://github.com/sofastack/sofa-serverless
+
+Nom du dépôt : open-hand/choerodon-framework
+Description : Choerodon Microservices Framework.
+URL : https://github.com/open-hand/choerodon-framework
+
+Nom du dépôt : 4finance/boot-microservice
+Description : Common classes for microservices set up on Spring Boot.
+URL : https://github.com/4finance/boot-microservice
+
+Nom du dépôt : AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL
+Description : Go Nats Streaming gRPC PostgerSQL emails microservice
+URL : https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL
+
+Nom du dépôt : AOEpeople/vistecture
+Description : Visualize Architecture: Microservice Architecture Tool for visualizing, analysing and automatic documentation of (distributed) Software Architectures
+URL : https://github.com/AOEpeople/vistecture
+
+Nom du dépôt : wuyichen24/spring-microservices-in-action
+Description : The source code of the book "Spring Microservices in Action (John Carnell)" and the personal summary of technical essentials about Spring Boot for microservices.
+URL : https://github.com/wuyichen24/spring-microservices-in-action
+

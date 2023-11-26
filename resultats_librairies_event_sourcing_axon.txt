@@ -1,0 +1,372 @@
+Nom du dépôt : benwilcock/cqrs-microservice-sampler
+Description : A Java Microservice & CQRS Demo using Spring Boot, Axon & Docker
+URL : https://github.com/benwilcock/cqrs-microservice-sampler
+
+Nom du dépôt : idugalic/digital-restaurant
+Description : DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
+URL : https://github.com/idugalic/digital-restaurant
+
+Nom du dépôt : benwilcock/pcf-axon-cqrs-demo
+Description : Demonstrates CQRS and Event Sourcing microservices in Java using Pivotal CloudFoundry, SpringBoot and the Axon Framework.
+URL : https://github.com/benwilcock/pcf-axon-cqrs-demo
+
+Nom du dépôt : GroupLeasePCL/poc-service
+Description : Reactive microservice stack with Webflux, Mongo, and Axon
+URL : https://github.com/GroupLeasePCL/poc-service
+
+Nom du dépôt : alicanli1995/event-driven-microservices-cqrs-event-sourcing-saga-axon-server
+Description : Event-driven Microservices, CQRS, Event Sourcing, SAGA, Transactions Management by AXON SERVER
+URL : https://github.com/alicanli1995/event-driven-microservices-cqrs-event-sourcing-saga-axon-server
+
+Nom du dépôt : monkey-codes/event-driven-architecture-cafe
+Description : Sample project using Axon framework for event sourcing and CQRS and Atom feeds to integrate microservices.
+URL : https://github.com/monkey-codes/event-driven-architecture-cafe
+
+Nom du dépôt : fredBouvet/employee-axon-cassandra
+Description : Hello world exemple for building a CQRS hexagonal microservice using axon and cassandra
+URL : https://github.com/fredBouvet/employee-axon-cassandra
+
+Nom du dépôt : jrajani/mini-bank
+Description : This is a sample project prepared for Axon demo using spring boot, axonhub, axondb and mysql. The axon framework is a good choice if you want to develop microservices using CQRS approach.
+URL : https://github.com/jrajani/mini-bank
+
+Nom du dépôt : monkey-codes/event-driven-architecture-cafe-kafka
+Description : Sample project using Axon framework for event sourcing and CQRS and Kafka to integrate microservices.
+URL : https://github.com/monkey-codes/event-driven-architecture-cafe-kafka
+
+Nom du dépôt : Leonardo18/event-sourcing-bank
+Description : Java microservice with api interfaces using Axon Framework to event sourcing with Mongo DB
+URL : https://github.com/Leonardo18/event-sourcing-bank
+
+Nom du dépôt : jrajani/mijn-bank
+Description : This is a sample project prepared for Axon demo using spring boot, axonserver and mysql. The axon framework is a good choice if you want to develop microservices using CQRS approach.
+URL : https://github.com/jrajani/mijn-bank
+
+Nom du dépôt : artshishkin/art-kargopolov-cqrs-saga-axon-microservices
+Description : Tutorial - Spring Boot Microservices, CQRS, SAGA, Axon Framework - from Sergey Kargopolov (Udemy)
+URL : https://github.com/artshishkin/art-kargopolov-cqrs-saga-axon-microservices
+
+Nom du dépôt : damiangonzalez/cqrs-microservice-springboot-axon-docker
+Description : A Java Microservice & CQRS Demo using Spring Boot, Axon & Docker https://www.linkedin.com/in/benwilcock
+URL : https://github.com/damiangonzalez/cqrs-microservice-springboot-axon-docker
+
+Nom du dépôt : dhananjay12/learn-cqrs
+Description : CQRS microservice example using spring and axon
+URL : https://github.com/dhananjay12/learn-cqrs
+
+Nom du dépôt : Shreshth150/EventDrivenMicroservices
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/Shreshth150/EventDrivenMicroservices
+
+Nom du dépôt : Dart5045/eduk
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot 
+URL : https://github.com/Dart5045/eduk
+
+Nom du dépôt : ugurh/spring-microservices
+Description : Spring boot microservices with CQRS, Saga, Axon Framework
+URL : https://github.com/ugurh/spring-microservices
+
+Nom du dépôt : AxonIQ/bike-rental-quick-start
+Description : Sample app to show how one can use Axon Framework and Axon Server to go from monolith to microservices
+URL : https://github.com/AxonIQ/bike-rental-quick-start
+
+Nom du dépôt : kaif91/order-services
+Description : microservice to use DDD using CQRS and Saga with Axon
+URL : https://github.com/kaif91/order-services
+
+Nom du dépôt : javicastillo83/micro-axon-java
+Description : Microservice architecture demo with Spring Boot and Axon
+URL : https://github.com/javicastillo83/micro-axon-java
+
+Nom du dépôt : kisevu/event-driven-microservice
+Description : CQRS design pattern event-driven-microservice with Axon Server 
+URL : https://github.com/kisevu/event-driven-microservice
+
+Nom du dépôt : dtodo1paco/cqrs-microservices-event-driven
+Description : Repo to hold the code from the udemy course "Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot"
+URL : https://github.com/dtodo1paco/cqrs-microservices-event-driven
+
+Nom du dépôt : azubikeenu/CQRS-microservice
+Description : Spring boot  microservice using CQRS design pattern and utilizing SAGA orchestration and Axon Framework
+URL : https://github.com/azubikeenu/CQRS-microservice
+
+Nom du dépôt : kaif91/order-service
+Description : Order microservice to use DDD using CQRS and Saga pattern with Axon
+URL : https://github.com/kaif91/order-service
+
+Nom du dépôt : lebronjamesuit/event-driven-products
+Description : Using Axon Framework to build a small backend for an microservice ecommerce app. Style of coding is Domain-driven design (DDD) & Event-driven architecture
+URL : https://github.com/lebronjamesuit/event-driven-products
+
+Nom du dépôt : cgohil/axon-online-store
+Description : E-commerce demo application developed using Spring Boot 2, Axon Framework 4, Java8, Docker & CQRS based microservices
+URL : https://github.com/cgohil/axon-online-store
+
+Nom du dépôt : thiago-mello/CQRS-microservices
+Description : Event-driven microservices using Axon Framework and CQRS pattern. From Sergey Kargopolov's video course.
+URL : https://github.com/thiago-mello/CQRS-microservices
+
+Nom du dépôt : theFaustus/axon-techbank
+Description : Fun project to explore the CQRS and Event Sourcing microservices with Axon framework
+URL : https://github.com/theFaustus/axon-techbank
+
+Nom du dépôt : vsolopov/microsagaaxon
+Description : microservices-saga-axon
+URL : https://github.com/vsolopov/microsagaaxon
+
+Nom du dépôt : nidabrahim/Realtime-updates
+Description : Spring Boot microservice for real-time updates - Event sourcing - CQRS - Axon Framework
+URL : https://github.com/nidabrahim/Realtime-updates
+
+Nom du dépôt : nomanbplmp/AxonExamples
+Description : Springboot Axon Event Driven Microservices
+URL : https://github.com/nomanbplmp/AxonExamples
+
+Nom du dépôt : DennisLCK/microservices-user-management
+Description : microservices practice use axon framwork
+URL : https://github.com/DennisLCK/microservices-user-management
+
+Nom du dépôt : AbderrahmenBelazzouz/TP5-SpringBoot-CQRS-AXON
+Description : SpringBoot : CQRS AXON MicroService
+URL : https://github.com/AbderrahmenBelazzouz/TP5-SpringBoot-CQRS-AXON
+
+Nom du dépôt : pabagan/spring-cqrs-axon
+Description : Sprint boot CQRS microservices with axon server
+URL : https://github.com/pabagan/spring-cqrs-axon
+
+Nom du dépôt : hendisantika/spring-boot-axon-sample7
+Description : Spring Boot AXON Sample7  - Event Driven Microservices
+URL : https://github.com/hendisantika/spring-boot-axon-sample7
+
+Nom du dépôt : collabintel/axon-service-demo
+Description : microservice environment with axon framework
+URL : https://github.com/collabintel/axon-service-demo
+
+Nom du dépôt : shahulbasha/productservice
+Description : Event Driven microservice using Axon framework
+URL : https://github.com/shahulbasha/productservice
+
+Nom du dépôt : kamismile/user
+Description : User management microservice using the Axon Framework
+URL : https://github.com/kamismile/user
+
+Nom du dépôt : Tobils/ms-java-springboot
+Description : microservices java springboot with event-driven ms, CQRS, SAGA, Axon
+URL : https://github.com/Tobils/ms-java-springboot
+
+Nom du dépôt : mertcakmak2/SpringCloud-MicroservicesWithEventSourcing
+Description : Microservices project with CQRS pattern.Mongo Db, Mysql, Axon framework.
+URL : https://github.com/mertcakmak2/SpringCloud-MicroservicesWithEventSourcing
+
+Nom du dépôt : Dart5045/store
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/Dart5045/store
+
+Nom du dépôt : urobin84/OrderService
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/urobin84/OrderService
+
+Nom du dépôt : Elbarqy/spring-microservices
+Description : Axon framework - Spring Boot - Microservices - CQRs - Event Sourcing - Event Driven
+URL : https://github.com/Elbarqy/spring-microservices
+
+Nom du dépôt : inspire99/axon_spring_boot
+Description : using axon for event driven microservices with spring boot
+URL : https://github.com/inspire99/axon_spring_boot
+
+Nom du dépôt : omeruysal/event-driven-microservices
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot, Spring Cloud
+URL : https://github.com/omeruysal/event-driven-microservices
+
+Nom du dépôt : salmanasad123/ProductsService
+Description : Products microservice (Axon , CQRS , SAGA) demo
+URL : https://github.com/salmanasad123/ProductsService
+
+Nom du dépôt : marzieh-vahid/Event-Driven_Microservices_SpringBoot_CQRS_SAGA_Axon
+Description : Event-Driven_Microservices_SpringBoot_CQRS_SAGA_Axon
+URL : https://github.com/marzieh-vahid/Event-Driven_Microservices_SpringBoot_CQRS_SAGA_Axon
+
+Nom du dépôt : JrDani/Event-driven-Tutorial
+Description : Spring Boot Microservices, CQRS, SAGA, Axon Framework (Udemy: Sergey Kargopolov)
+URL : https://github.com/JrDani/Event-driven-Tutorial
+
+Nom du dépôt : luiz-gazaniga/event-driven-microservice
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot.
+URL : https://github.com/luiz-gazaniga/event-driven-microservice
+
+Nom du dépôt : salmanasad123/OrdersService-Initial-Assignment
+Description : Orders Microservice (Axon, CQRS, SAGA) demo
+URL : https://github.com/salmanasad123/OrdersService-Initial-Assignment
+
+Nom du dépôt : lastingyeh/event-driven-microservices
+Description : Java, spring boot, netflix, microservices, axon, event driven, queue
+URL : https://github.com/lastingyeh/event-driven-microservices
+
+Nom du dépôt : FatimaZahraHASBI/Distributed-systems-Event-Sourcing-CQRS-AXON
+Description : Examen Systèmes distribués, Microservices, Event-Sourcing, CQRS, AXON
+URL : https://github.com/FatimaZahraHASBI/Distributed-systems-Event-Sourcing-CQRS-AXON
+
+Nom du dépôt : pavel-mikhalchuk/modern-app
+Description : microservices spring boot axon ci cd kubernetes helm
+URL : https://github.com/pavel-mikhalchuk/modern-app
+
+Nom du dépôt : urobin84/axonquickstart-4.5.9
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/urobin84/axonquickstart-4.5.9
+
+Nom du dépôt : plamentzanov/microservices-demo
+Description : Microservices demo using Spring Boot, Axon and Saga orchestration
+URL : https://github.com/plamentzanov/microservices-demo
+
+Nom du dépôt : ssamsara98/microservices-estore
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/ssamsara98/microservices-estore
+
+Nom du dépôt : salmanasad123/PaymentsService-Initial-Assignment
+Description : Payment microservice (Axon , CQRS, SAGA) demo
+URL : https://github.com/salmanasad123/PaymentsService-Initial-Assignment
+
+Nom du dépôt : pedro687/Event-Driven-Microservices-CQRS-SAGA-Axon-Spring-Boot
+Description : Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/pedro687/Event-Driven-Microservices-CQRS-SAGA-Axon-Spring-Boot
+
+Nom du dépôt : vahapgencdal/order_management
+Description : We are going to implement Axon Saga Based microservice application 
+URL : https://github.com/vahapgencdal/order_management
+
+Nom du dépôt : ManiKathir/CQRS-AXON
+Description : Shop-Stock microservice CQRS - Required Axon server service to run. 
+URL : https://github.com/ManiKathir/CQRS-AXON
+
+Nom du dépôt : Ruptam/cqrs-design-pattern
+Description : CQRS Microservice design pattern using Spring Boot & Axon Framework
+URL : https://github.com/Ruptam/cqrs-design-pattern
+
+Nom du dépôt : paulzijlmans/cqrs-event-sourcing
+Description : User Management -  Spring Boot microservices based on CQRS & Event Sourcing. Powered by Java and Axon.
+URL : https://github.com/paulzijlmans/cqrs-event-sourcing
+
+Nom du dépôt : Osaou/es-cqrs-axon-bookstore
+Description : Testing out the Axon Framework for building ES+CQRS microservices in Kotlin
+URL : https://github.com/Osaou/es-cqrs-axon-bookstore
+
+Nom du dépôt : woremo/eda_axon_cqrs_saga
+Description : Udemy EDA course: https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/
+URL : https://github.com/woremo/eda_axon_cqrs_saga
+
+Nom du dépôt : dokrsky/cqrs-axon-framework
+Description : https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework
+URL : https://github.com/dokrsky/cqrs-axon-framework
+
+Nom du dépôt : shilesh-r/axon-demo
+Description : Hands-on project for Axon Framework (https://axoniq.io/) for Microservices development with CQRS pattern
+URL : https://github.com/shilesh-r/axon-demo
+
+Nom du dépôt : andrewMacmurray/practical-microservices
+Description : implementation of app in practical-microservices book using Spring Boot and Axon
+URL : https://github.com/andrewMacmurray/practical-microservices
+
+Nom du dépôt : isagron/CQRS-SAGA-with-Axon-framework
+Description : Manage microservices using CQRS and SAGA design pattern with Axon framework
+URL : https://github.com/isagron/CQRS-SAGA-with-Axon-framework
+
+Nom du dépôt : hmozo/products-manager
+Description : App for management of products (Microservices + CQRS + Event-sourcing + Saga+ Axon)
+URL : https://github.com/hmozo/products-manager
+
+Nom du dépôt : SalahBkd/eventsourcing-cqrs-training
+Description : Microservices Event Sourcing & CQRS implementation with AXON framework and Spring Boot.
+URL : https://github.com/SalahBkd/eventsourcing-cqrs-training
+
+Nom du dépôt : abelfgdeveloper/event-driven-microservices-cqrs-saga-axon-spring-boot
+Description : Code of course https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/
+URL : https://github.com/abelfgdeveloper/event-driven-microservices-cqrs-saga-axon-spring-boot
+
+Nom du dépôt : SalahBkd/pfe-digitalbanking-backend
+Description : Microservices Digital Banking App with AXON Framework implementing Event Sourcing & CQRS patterns.
+URL : https://github.com/SalahBkd/pfe-digitalbanking-backend
+
+Nom du dépôt : SergEndorfin/axon_cqrs_saga_course
+Description : Sergey Kargopolov training - Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+URL : https://github.com/SergEndorfin/axon_cqrs_saga_course
+
+Nom du dépôt : Gaurav9969351313/gt-microservices-boilerplate
+Description : Boiler plate for microservices using zuul, eureka, ribbon, ziplin, sluth, axon etc
+URL : https://github.com/Gaurav9969351313/gt-microservices-boilerplate
+
+Nom du dépôt : IoanaT/event-driven-microservices-app
+Description : Event-driven microservices app using Spring Cloud API Gateway, Eureka Discovery Service and Axon framework
+URL : https://github.com/IoanaT/event-driven-microservices-app
+
+Nom du dépôt : deepakbhalla/microservices-cqrs-axon
+Description : Demo implementation of CQRS microservices pattern using Spring boot and Axon
+URL : https://github.com/deepakbhalla/microservices-cqrs-axon
+
+Nom du dépôt : Anass-Bricha/EventSourcing-CQRS
+Description : A web application for road violations based on microservices architechture, along with Event Sourcing and CQRS patter, and Axon Framework
+URL : https://github.com/Anass-Bricha/EventSourcing-CQRS
+
+Nom du dépôt : iamandicip/udemy-microservices-cqrs-axon
+Description : Learn how to create Spring Boot microservices that are based on the CQRS & Event Sourcing. Powered by Java and Axon.
+URL : https://github.com/iamandicip/udemy-microservices-cqrs-axon
+
+Nom du dépôt : guptasorabh47/domain-driven-design-microservice
+Description : Domain Driven Design based Microservice Application using spring boot - CQRS- Axon platform
+URL : https://github.com/guptasorabh47/domain-driven-design-microservice
+
+Nom du dépôt : Gustavo-Akira/product-service-store
+Description :  a study project of a product microservice implementing cqrs with axon server
+URL : https://github.com/Gustavo-Akira/product-service-store
+
+Nom du dépôt : RuiRocha21/e-commerce-store-microservice
+Description : e-commerce store microservice with Event-Driven, CQRS, SAGA, Axon server in Spring Boot
+URL : https://github.com/RuiRocha21/e-commerce-store-microservice
+
+Nom du dépôt : RafaelGomez1/Users-Service
+Description : Users microservice for a DDD + CQRS + Axon + Spring Boot distributed mobile app
+URL : https://github.com/RafaelGomez1/Users-Service
+
+Nom du dépôt : salmanasad123/core
+Description : Core Module that will be used in Product and Orders microservice (Axon, CQRS, SAGA) demo
+URL : https://github.com/salmanasad123/core
+
+Nom du dépôt : nauticalist/resources-service
+Description : Resources microservice with CQRS patern (Spring Boot, MongoDB, Axon Framework, Spring Security)
+URL : https://github.com/nauticalist/resources-service
+
+Nom du dépôt : leonardocaldas/axon-eventsourcing-poc
+Description : PoC using Axon Framework and AxonDB for building a microservice architecture using Event Sourcing
+URL : https://github.com/leonardocaldas/axon-eventsourcing-poc
+
+Nom du dépôt : jrajani/axon-dutch-school
+Description : This is a sample project prepared for Axon demo using spring boot, axonhub, axondb and mysql. The axon framework is a good choice if you want to develop microservices using CQRS approach.
+URL : https://github.com/jrajani/axon-dutch-school
+
+Nom du dépôt : jrajani/axon-dutch-school-docker
+Description : This is a sample project prepared for Axon demo using spring boot, axonhub, axondb and mysql. The axon framework is a good choice if you want to develop microservices using CQRS approach.
+URL : https://github.com/jrajani/axon-dutch-school-docker
+
+Nom du dépôt : shjwfan/products_ms
+Description : products_ms is a part of an abstract microservices event-driven project based on spring boot, cqrs, saga and axon-framework
+URL : https://github.com/shjwfan/products_ms
+
+Nom du dépôt : shjwfan/gateway_ms
+Description : gateway_ms is a part of an abstract microservices event-driven project based on spring boot, cqrs, saga and axon-framework
+URL : https://github.com/shjwfan/gateway_ms
+
+Nom du dépôt : soumyabrata09/SAGA-EventSourcing-CQRS
+Description : A sample Order Management Project comprising of 3 microservices. We have leveraged Axon Framework and SAGA pattern to implement our order management services
+URL : https://github.com/soumyabrata09/SAGA-EventSourcing-CQRS
+
+Nom du dépôt : shjwfan/eureka_ms
+Description : eureka_ms is a part of an abstract microservices event-driven project based on spring boot, cqrs, saga and axon-framework
+URL : https://github.com/shjwfan/eureka_ms
+
+Nom du dépôt : sdbawa/plan-match-service
+Description : Microservice developed by applying DDD, CQRS, Event Sourcing by using AXON, Java, Spring boot. The communication between command and query models is totally decoupled and mediated by buses handled by AXON server. Aggregate is managed as event sourced way and event store is procided by AXON server.
+URL : https://github.com/sdbawa/plan-match-service
+
+Nom du dépôt : Jatinder-Singh1064/ProductService-CQRS
+Description : An Event-Driven microservices project with Product Service implementation with Command-Query Responsibility Segregation (CQRS) and Domain Driven Design (DDD) principles. Integrated with Axon Server which helps to maintain and scale applications in distributed systems.
+URL : https://github.com/Jatinder-Singh1064/ProductService-CQRS
+

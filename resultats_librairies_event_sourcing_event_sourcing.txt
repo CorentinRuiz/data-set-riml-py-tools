@@ -1,0 +1,28 @@
+Nom du dépôt : fuinorg/ddd-cqrs-4-java-example
+Description : Example Java DDD/CQRS/Event Sourcing microservices with Quarkus, Spring Boot and EventStore from Greg Young.
+URL : https://github.com/fuinorg/ddd-cqrs-4-java-example
+
+Nom du dépôt : draptik/playground-ddd-cqrs
+Description : Playground for C# solutions dealing with Microservices/SOA, DDD, CQRS, Event-Sourcing/EventStore, RabbitMQ, etc
+URL : https://github.com/draptik/playground-ddd-cqrs
+
+Nom du dépôt : mathildegrimal/nest-microservice
+Description : Nest microservice with cqrs module, nats and eventstore
+URL : https://github.com/mathildegrimal/nest-microservice
+
+Nom du dépôt : deimors/AkkaOnCore
+Description : An experiment in creating a containerized CQRS microservices system using Akka, EventStore, SignalR & Vue in ASP.Net Core
+URL : https://github.com/deimors/AkkaOnCore
+
+Nom du dépôt : fasowllaza/nestjs-microservice
+Description : nestjs microservice using rxjs grpc and eventstore
+URL : https://github.com/fasowllaza/nestjs-microservice
+
+Nom du dépôt : cgunaydin/CoinBazaar
+Description : Microservice architecture with DDD and Event sourcing(EventStore)
+URL : https://github.com/cgunaydin/CoinBazaar
+
+Nom du dépôt : marcodiri/micros-chess
+Description : Simple matchmaking and chess game manager app with microservices and EventStore. (Exam assignment for Software Architectures and Methodologies course at University of Florence)
+URL : https://github.com/marcodiri/micros-chess
+

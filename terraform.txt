@@ -1,0 +1,268 @@
+Nom du dépôt : msfidelis/ecs-microservices-orchestration
+Description : :cloud: :whale: :zap: :rocket:  :package: Complete microservices orchestration on ECS on AWS using Terraform
+URL : https://github.com/msfidelis/ecs-microservices-orchestration
+
+Nom du dépôt : heroku-examples/terraform-heroku-common-kong-microservices
+Description : Heroku Common Runtime microservices with a unified gateway using Terraform
+URL : https://github.com/heroku-examples/terraform-heroku-common-kong-microservices
+
+Nom du dépôt : devenes/ansible-microservices-react-app
+Description : ☁️🐧👾🐋🐘 Microservice-Based Web Application aims to deploy web-page written Node.js and React.js on AWS Cloud Infrastructure using Ansible and Terraform.
+URL : https://github.com/devenes/ansible-microservices-react-app
+
+Nom du dépôt : implementing-microservices/infra-staging-env
+Description : A Terraform based CI/CD module to build the staging environment (from the book Microservices Up & Running)
+URL : https://github.com/implementing-microservices/infra-staging-env
+
+Nom du dépôt : TeliaDK/terraform-aws-microservice
+Description : Terraform module for ECS microservices
+URL : https://github.com/TeliaDK/terraform-aws-microservice
+
+Nom du dépôt : vmulas/iac-cloud
+Description : IaC :: Terraform + Ansible + Docker-Swarm + Microservices on AWS
+URL : https://github.com/vmulas/iac-cloud
+
+Nom du dépôt : terraform-gitlab-modules/terraform-gitlab-microservices-bumper
+Description : Terraform module which creates Gitlab branches and tags in microservices repositories.
+URL : https://github.com/terraform-gitlab-modules/terraform-gitlab-microservices-bumper
+
+Nom du dépôt : terraform-gitlab-modules/terraform-gitlab-microservices-bumper
+Description : Terraform module which creates Gitlab branches and tags in microservices repositories.
+URL : https://github.com/terraform-gitlab-modules/terraform-gitlab-microservices-bumper
+
+Nom du dépôt : spiffaz/Terraform-MicroserviceArchitecture
+Description : Creation of a microservice architechture on AWS using Terraform
+URL : https://github.com/spiffaz/Terraform-MicroserviceArchitecture
+
+Nom du dépôt : cartest/terraform-microservice
+Description : Microservice terraform module
+URL : https://github.com/cartest/terraform-microservice
+
+Nom du dépôt : heroku-examples/terraform-heroku-enterprise-kong-microservices
+Description : Heroku Enterprise microservices with a unified gateway using Terraform
+URL : https://github.com/heroku-examples/terraform-heroku-enterprise-kong-microservices
+
+Nom du dépôt : cartest/terraform-squid
+Description : Terraform Squid-Proxy Microservice
+URL : https://github.com/cartest/terraform-squid
+
+Nom du dépôt : PrecisionProcoGroup/TerraformAWSMicroservice
+Description : Deploy a microservice to AWS with Terraform
+URL : https://github.com/PrecisionProcoGroup/TerraformAWSMicroservice
+
+Nom du dépôt : cdktf/ecs-microservices-cdktf
+Description : Testing Infrastructure as Code with the CDK for Terraform (fork of https://github.com/jcolemorrison/ecs-microservices-cdktf)
+URL : https://github.com/cdktf/ecs-microservices-cdktf
+
+Nom du dépôt : truemark/terraform-aws-microservice
+Description : Terraform module to standup an independent microservice in ECS Fargate
+URL : https://github.com/truemark/terraform-aws-microservice
+
+Nom du dépôt : robertlit/distributed-system
+Description : Spring microservices deployed on Google Kubernetes Engine provisioned with Terraform
+URL : https://github.com/robertlit/distributed-system
+
+Nom du dépôt : gaarm/terraform-k8s-logging
+Description : Terraform module to provide streaming of microservices logs to Kafka
+URL : https://github.com/gaarm/terraform-k8s-logging
+
+Nom du dépôt : hashicorp/microservices-architecture-on-aws-consul
+Description : Terraform Consul configuration for the microservices-architecture-on-aws repo
+URL : https://github.com/hashicorp/microservices-architecture-on-aws-consul
+
+Nom du dépôt : martinlengua/terraform-demo-aks-AGIC
+Description : This is a terraform template for infrastructure creation for microservices
+URL : https://github.com/martinlengua/terraform-demo-aks-AGIC
+
+Nom du dépôt : markti/terraform-azfn-microservices
+Description : Terraform Modules for building Microservices using Azure Functions and Azure API Management
+URL : https://github.com/markti/terraform-azfn-microservices
+
+Nom du dépôt : dhvogel/cfcorp-tf-aws-alb-ecs
+Description : terraform configuration defining an alb and ecs cluster to host cfcorp microservices
+URL : https://github.com/dhvogel/cfcorp-tf-aws-alb-ecs
+
+Nom du dépôt : rivernews/terraform-digitalocean-kubernetes-microservice
+Description : Terraform module that provisions a microservice on an existing Kubernetes cluster
+URL : https://github.com/rivernews/terraform-digitalocean-kubernetes-microservice
+
+Nom du dépôt : codytubbs/tf-full-microservice-stack
+Description : A near 1:1 Ruby AWS SDK to Terraform port of ruby-aws-microservice
+URL : https://github.com/codytubbs/tf-full-microservice-stack
+
+Nom du dépôt : pliniogsnascimento/microservices-platform-in-azure
+Description : Workload to provision a microservice infrastructure based on kubernetes, developed with terraform.
+URL : https://github.com/pliniogsnascimento/microservices-platform-in-azure
+
+Nom du dépôt : Ola-Daniel/Production_Ready_PrestaShop_Deployment
+Description : Production-Ready Dockerized PrestaShop Solution deployed on AWS with Terraform based on a Microservice Architecture
+URL : https://github.com/Ola-Daniel/Production_Ready_PrestaShop_Deployment
+
+Nom du dépôt : oracle-devrel/terraform-oci-arch-microservice-oke
+Description : terraform-oci-arch-microservice-oke
+URL : https://github.com/oracle-devrel/terraform-oci-arch-microservice-oke
+
+Nom du dépôt : roylines/terraform-ecs-microservice
+Description : terraform module for creating microservices
+URL : https://github.com/roylines/terraform-ecs-microservice
+
+Nom du dépôt : pet-friend/terraform-microservice-module
+Description : Terraform module for PetFriend's microservices
+URL : https://github.com/pet-friend/terraform-microservice-module
+
+Nom du dépôt : rspace-os/rspace-microservices-terraform-docker
+Description : Terraform files for installing docker microservices
+URL : https://github.com/rspace-os/rspace-microservices-terraform-docker
+
+Nom du dépôt : Tyndallray/terraform-serverless-microservice
+Description : terraform-serverless-microservice
+URL : https://github.com/Tyndallray/terraform-serverless-microservice
+
+Nom du dépôt : Belyklarry/clj-app-infra
+Description : Clojure Microservices App Terraform manifest files.
+URL : https://github.com/Belyklarry/clj-app-infra
+
+Nom du dépôt : Tyndallray/terraform-serverless-microservice
+Description : terraform-serverless-microservice
+URL : https://github.com/Tyndallray/terraform-serverless-microservice
+
+Nom du dépôt : ashish30jain/wordpress-ecs-tf
+Description : Terraform ECS Deployment for microservice
+URL : https://github.com/ashish30jain/wordpress-ecs-tf
+
+Nom du dépôt : izaaklauer/terraform-aws-acmecorp-microservice-infra
+Description : terraform-aws-acmecorp-microservice-infra
+URL : https://github.com/izaaklauer/terraform-aws-acmecorp-microservice-infra
+
+Nom du dépôt : navjotdevops/aws-terraform-module
+Description : This repo have terraform modules for aws microservices
+URL : https://github.com/navjotdevops/aws-terraform-module
+
+Nom du dépôt : smartatransit/kube-services
+Description : Terraform configuration for deploying microservices on the SMARTA kubernetes cluster
+URL : https://github.com/smartatransit/kube-services
+
+Nom du dépôt : DonAlkens/terraform-microservices-infrastructure-with-custom-vpc
+Description : A complete fully managed infrastructure for microservices architecture with terraform.
+URL : https://github.com/DonAlkens/terraform-microservices-infrastructure-with-custom-vpc
+
+Nom du dépôt : Anakz/aws-infrastructure-setup-with-terraform
+Description : Automated AWS Infrastructure Setup and Microservices Deployment with Terraform: Custom VPC, Subnet and Security.
+URL : https://github.com/Anakz/aws-infrastructure-setup-with-terraform
+
+Nom du dépôt : eshluke/module-aws-network
+Description : Terraform module to provision network on AWS (Exercise in Microservices: Up and Running)
+URL : https://github.com/eshluke/module-aws-network
+
+Nom du dépôt : jshong0907/module-argo-cd
+Description : A Terraform module that installs Argo CD into a cluster (Microservices: Up and Running book)
+URL : https://github.com/jshong0907/module-argo-cd
+
+Nom du dépôt : jshong0907/module-aws-kubernetes
+Description : A terraform module that sets up EKS (Microservices: Up and Running book)
+URL : https://github.com/jshong0907/module-aws-kubernetes
+
+Nom du dépôt : yogingale/codepipeline-jfrog-java-microservices
+Description : Terraform repository for integration of Codepipeline hooked to Java microservices Github repositories
+URL : https://github.com/yogingale/codepipeline-jfrog-java-microservices
+
+Nom du dépôt : jshong0907/module-aws-network
+Description : A Terraform module that creates the network (Microservices: Up and Running book)
+URL : https://github.com/jshong0907/module-aws-network
+
+Nom du dépôt : anasgrt/deploy_spring_boot_microservices_on_aws_ecs
+Description : Terraform code for Deploying Spring Boot Microservices App on AWS ECS
+URL : https://github.com/anasgrt/deploy_spring_boot_microservices_on_aws_ecs
+
+Nom du dépôt : dotcomrow/template-terraform-workspace
+Description : Template repository for Terraform project for GCP microservice stack
+URL : https://github.com/dotcomrow/template-terraform-workspace
+
+Nom du dépôt : mcheng-splunk/microservices-demo-otel-tf
+Description : This repository deployed the signalfx microservice application using terraform.
+URL : https://github.com/mcheng-splunk/microservices-demo-otel-tf
+
+Nom du dépôt : vistimi/terraform-aws-microservice
+Description : Terraform module to create a microservice for all purposes
+URL : https://github.com/vistimi/terraform-aws-microservice
+
+Nom du dépôt : Wamala-Emmanuel/devops-apple
+Description : Terraform code to deploy the apple microservice on azure
+URL : https://github.com/Wamala-Emmanuel/devops-apple
+
+Nom du dépôt : pbacterio/terraform_kubernetes_test
+Description : Test to deploy a microservice on Kubernetes with Terraform
+URL : https://github.com/pbacterio/terraform_kubernetes_test
+
+Nom du dépôt : spbkelt/terrakub
+Description : Terraform code for deployment microservice app in k8s cluster federation
+URL : https://github.com/spbkelt/terrakub
+
+Nom du dépôt : Muhiuddin-Dewan/ECSwithTerraform
+Description : ECS Cluster, Service and task creation using Terraform. One microservice deployment using terraform.
+URL : https://github.com/Muhiuddin-Dewan/ECSwithTerraform
+
+Nom du dépôt : growiser/consorciei-challange
+Description : Microservices Cloud AWS App (Lambda, Aurora RDS, s3Bucket, Serverless, NodeJs) with Terraform to quickly setup the infrastructure (IaC). 
+URL : https://github.com/growiser/consorciei-challange
+
+Nom du dépôt : officialdarnyc/az-container-apps-azapi-terraform
+Description : Deploy two Dapr-enabled microservices application to Azure Container Apps using Terraform modules and the AzAPI Provider
+URL : https://github.com/officialdarnyc/az-container-apps-azapi-terraform
+
+Nom du dépôt : morgvb/energy-project-dashboard
+Description : Basic Terraform configuration for an energy project dashboard consisting of 2 microservices: a project service and a data visualization service.
+URL : https://github.com/morgvb/energy-project-dashboard
+
+Nom du dépôt : Mayankgajpall/terraform
+Description : Terraform code base to create infrastructure for deployment of microservices(django_CRUD and flask_OCR) using kubernetes.
+URL : https://github.com/Mayankgajpall/terraform
+
+Nom du dépôt : ingeniala/terraform-aws-microservices-basic
+Description : Terraform module to provision a basic microservice-based architecture on AWS cloud provider
+URL : https://github.com/ingeniala/terraform-aws-microservices-basic
+
+Nom du dépôt : MsOluwademilade/MicroTerraKubeCI-App
+Description : Deploying the Socks Shop microservice-based app on Kubernetes using Terraform 
+URL : https://github.com/MsOluwademilade/MicroTerraKubeCI-App
+
+Nom du dépôt : dm4brl/project-root
+Description : Folder and file structure for microservice architecture in GCP and Terraform usage
+URL : https://github.com/dm4brl/project-root
+
+Nom du dépôt : izaaklauer/terraform-aws-acmecorp-microservice-ecs-allenvs
+Description : Terraform module for bootstrapping an ecs microservice for all environments for acmecorp
+URL : https://github.com/izaaklauer/terraform-aws-acmecorp-microservice-ecs-allenvs
+
+Nom du dépôt : derekdereks/WeatherApp
+Description : A serverless weather app deployed as a microservice using Terraform, Kubernetes, Jenkins, and Flask 
+URL : https://github.com/derekdereks/WeatherApp
+
+Nom du dépôt : urbinaalex17/jitsi-aws-ecs-microservice
+Description : Deploy Jitsi Meet in Amazon Elastic Container Cluster as microservice with Terraform
+URL : https://github.com/urbinaalex17/jitsi-aws-ecs-microservice
+
+Nom du dépôt : Ohenix/ECS-proj
+Description : building a microservice ECS as the orchestrating tool and terraform as the IAC
+URL : https://github.com/Ohenix/ECS-proj
+
+Nom du dépôt : Mirmansoorahmed/Deploying-Microservices-on-Azure-Kubernetes-Engine-with-Istio-as-a-Sidecar-Container
+Description : The process of deploying an application as a microservice using Azure Kubernetes Engine and Istio via Terraform
+URL : https://github.com/Mirmansoorahmed/Deploying-Microservices-on-Azure-Kubernetes-Engine-with-Istio-as-a-Sidecar-Container
+
+Nom du dépôt : boxyware-terraform-modules/terraform-aws-serverless-microservice
+Description : Terraform module to deploy a REST microservice implemented with AWS Lambda and exposed by AWS API Gateway
+URL : https://github.com/boxyware-terraform-modules/terraform-aws-serverless-microservice
+
+Nom du dépôt : letsrockthefuture/cart
+Description : Cart is the new microservice that will handle the /cart of our friend Monolith, and that was developed following the infrastructure standard as code using Terraform.
+URL : https://github.com/letsrockthefuture/cart
+
+Nom du dépôt : letsrockthefuture/checkout
+Description : Checkout is the new microservice that will handle the /checkout of our friend Monolith, and that was developed following the infrastructure standard as code using Terraform.
+URL : https://github.com/letsrockthefuture/checkout
+
+Nom du dépôt : ersanyamarya/terraform-aws-ec2-server-stack
+Description : This Terraform module creates a list of EC2 instances and sets them up according to your specified configurations. It can be used to set up all the EC2 instances required for a setup or microservices architecture. The module also creates security groups, assigns ports, and sets up Route53 records for each instance.
+URL : https://github.com/ersanyamarya/terraform-aws-ec2-server-stack
+
